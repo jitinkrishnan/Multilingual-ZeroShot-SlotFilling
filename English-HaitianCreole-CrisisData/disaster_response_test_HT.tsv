@@ -1,0 +1,521 @@
+id	utterance	slot_labels	intent
+0	je suis asmatique je peux pas prendre des piqures que dois je faire ou quoi prendre a la place j'attend la reponse svp	O O B-MED O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL O O O O O	request
+1	e pas meme une tente.  Nos enfants sont tombs malades.	O O O O B-SHL O O O O O B-MED	request
+2	Pep lavout LA BEZWEN DLO AK MANGE	O O B-MED I-MED B-WAT O B-FD	request
+3	On a besoind aide sil vous plais on pas de tante ni de taches	O O O O O O O O O O B-SHL O O O	request
+4	Aide vetement, nouriture, medicament, hopitale gonaive.	B-OTH I-OTH B-FD B-MED I-MED O	request
+5	M se on etudiante nan UNDH map aprann infirmire Faculte a tonbe moun ki tap ede m lan mouri madi 12 janvye 2011 SVP fe m jwenn supo nou d nou ke bondy	O O O O O O O O B-SHL O O O B-MED I-MED I-MED I-MED I-MED I-MED I-MED O O O O O O O O O B-FD O O O O	request
+6	Nou menm nan silo, enpas Blanchard, nou pa gen tant se nan seren n'ap demi.  Nou te fe yon 2mand nan 4636, yo pa janm f'n repons.  SVP fe yon ti panse avek nou	O O O O B-MED I-MED O B-SHL O B-SHL O O O O O O O O O O O O O O O O O O O O O O O O O O	request
+7	Grangou apfin ak nou arcahaie nan corail	O O O O O O O	request
+8	mwen pa gen moun pou voye lajan pou mwen	O O O O O O B-OTH O O	request
+9	p jwen dlo, manje, tant pou nou demi nou gen 101 timoun vinn sove n	O O B-WAT B-FD B-SHL O O O O O O O O O O	request
+10	Nous sommes affam,assoif,ont dorme toujours a la belle otoile par ce que nos maison sont detuit aide nous dans le nouvel haiti nous aimerons participMwen ekri nou la . pou fe nou konnen. pep vilaj solidarite . nan yon gwo poblem pou dlo	O O O O B-SHL O O O O O O O O O O O B-OTH O O B-WAT O O O O O O O O O O O O O O O O O O O O O O B-WAT	request
+11	Mwen nan montay lavout pa gen dlo menm pou moun yo bw tanpri rive we nou.	O O O O O O B-WAT O O O O O O O O O	request
+12	Nou bezwen aide nou poko jwen anyen bo lakay pa nou ( dbrosse rte du canapvert b enaf ) fe mesaj la pase pou nou.  mesi bokou.	O O B-OTH O O O O O B-SHL O O O B-SHL O O O O O O O O O O B-WAT O O O O	request
+13	nsne yo pou yo panse ak nou paske nou nan necesite de anpil bagay ( dlo trete, manje, pwela ak bagay pou nou pare lapli etc ).	O O O O O O O O O O O O O O O B-WAT I-WAT B-FD B-SHL I-SHL I-SHL B-OTH I-OTH I-OTH I-OTH I-OTH O	request
+14	Nou se yonfanmi de 13 moun yon manman yon papa 11 timoun nou bezwen ed alimant : dlo manje pat savon lwil, d finansye nou rete nan rue chavannes prolon	O O O O O O O O O O O O O B-SHL O B-FD O B-WAT B-FD O O O O O O O O O O O	request
+15	Moun nan gresye zon santo, enpas des arbres, lanse yon gri dalam pou di soufrans yo apre tranbleman te a.  Yo gen nesesite : tant, dlo ak manje.  SOS	O O O O O O O O O B-SHL O O O O O O O O O O O O O O O B-SHL B-WAT O B-FD O O	request
+16	nan riyel larose nimewo 13 nou pa gen manje.  dlo nou pa gen tant pou nou domi nou mande digicel pou l ede nou mesi nou konte sou ou	O O O O O B-FD I-FD I-FD I-FD O B-WAT B-SHL O O B-SHL O O O O O O O O O O O O O O O	request
+17	Nou se sinistre ki nan min fontamara 27 nan Broyer zone bel air site Alix.  Pa gen pesonn ki lonje lanmen ba nou e bezwenn anpil.  Nou pa gen dlo trete, gen a	O O B-WAT I-WAT I-WAT I-WAT I-WAT O O O B-OTH O O O O O O O O O O O O O B-WAT O O O O O O B-WAT I-WAT O O	request
+18	Tanpri souple fe yon bagay pou nou, nou nan santo 20 bo lekol filantwps la sou yon ti teren anndan net, nou bezwen dlo, manje poun ka viv, nou anviwon 20 moun	O B-MED O O B-WAT I-WAT I-WAT O O O B-SHL O O O B-FD I-FD I-FD I-FD I-FD I-FD I-FD O O B-WAT B-FD O O O O O O O	request
+19	Slt nous sommes a delmas 33 bas camep rue la victoir ns avons besion de l'eau de la nouriture des tantes parceque la saison pluivieuse est proche aide ns	O O B-MED I-MED O O O O O O O O B-WAT I-WAT O B-WAT O O B-FD O B-SHL O O O O O O B-OTH O	request
+20	Nou bezwen aide nan morija diquini 63 pa gen dlo ni tente pou nou domi.  yo pa pote anyen pou nou lot kote yo jwen, fe sa pou nou voye aide bondye a benh nou.	O O B-OTH I-OTH I-OTH I-OTH I-OTH O O B-WAT O B-SHL O O O O O O O O O O O O O O O O O O O O O O O O	request
+21	Je suis  croix-des-bouquets, ou puis je trouver de l'aide ( eau-nouriture )	O O O O O O O O O B-OTH O B-FD O	request
+22	an zon nou pa gen manje ni dlo tanpri fe yon fason pou nou.  Bon apr-midi.	O O O O O B-FD O B-WAT O O O O O O O O O	request
+23	Nou bezwen dlo, antibiotic, cache nez, tente.  Nou nan lamentin 54 rue cocteau, carrefour	O O B-WAT B-MED I-MED I-MED B-SHL O O O B-SHL O O O O	request
+24	Rlle canne--sucre prolonge(carrefour) Nou bezwen Tant,dlo,manje.	O O O O O B-FD	request
+25	t depuis mardi je na pas de l eau ni mange tamprit merci	O O O O O O O O B-WAT O B-FD O O	request
+26	Nan moleard nan eglise adventiste morija nou gen yon comite gestion risque ak desastre.  Nou bezwen tant, manje ak dlo potab pou moun yo.  Pou kontak rele n	O O O O O B-SHL O O O O O O O O O O O B-SHL B-FD O B-WAT I-WAT O O O O O O O O	request
+27	Merger route de leogane route de st antoine.  Besoin de l eau et la nouriture	O O O O O O O O O B-SHL O O B-WAT O O B-FD	request
+28	Sos pou morne cabrit gin yon dif chak swa nan morne cabrit pa gin moune ki janm di anyien pou sa voye zie kounie a apre sms la wa we ok	O O O O O O O O O O O O O O B-OTH O O O O O O O O O O O O O O O O	request
+29	Nou nan you situation tres triste nan fontamara 43, zon labela.  La faim ap tu rs moun ki rete yo.  Sove nou tanpri.	O O O O O O O O O O B-SHL O O B-FD O O O O O O O O O O O	request
+30	Lavwad lamerik fe mesaj la pase pou nou.  Nou nan gresye 24 m seksyon ( ti boukan ) ap mouri grangou.  Ti sa nou te genyen fini.  Lanse apel la pou nou souple	O O O O O O O O O O B-OTH O O O O O O O O O B-FD I-FD O O O O O O O O O O O O O O	request
+31	dormons en pleine rue dans la zone de carrefour spcialement mon repos 42 y compris les autres blocs sommes abandonnes sans aides alimentaires ni ten	O O O O O B-FD I-FD I-FD I-FD O O O O O O O O O O O O B-OTH B-FD O B-SHL	request
+32	Salut les gens de la mahotire 79 attend ils ont tous faim	O O O B-FD I-FD I-FD I-FD O O O O B-FD	request
+33	F vit riv sou nou.  nou grangou nan fontamara tou.	O O O O O O O B-FD O B-SHL O	request
+34	Nou vle manje dlo tant ruelle alix roi impasse champagne	O O B-FD B-WAT B-SHL B-OTH I-OTH I-OTH I-OTH O	request
+35	Mou nan depatman lwes zone gran gwave localite foche nou grangou nou nou nan la ri mwen se agar larose.	O O O O O O O O O O O O O O O O O O O O	request
+36	Nou bezywen manje kile nap vini.  alix roi impas champagne	O O B-FD I-FD I-FD I-FD O O O O O	request
+37	Nou nan sarthe impasse philadelphia nou sinistre nou pa gen mange n	O O O O O O O B-WAT O O B-FD O	request
+38	Logane 9m section citronniers nou bezwen manje	O O O O O O B-FD	request
+39	Moinsyon victime moinret bonrepos serin mapedormir madame moinyontimoume moinpagenmange poume bayo silvousplait dirigent yowsanous caferpourmoin	O B-MED O B-FD I-FD I-FD O O O O B-SHL I-SHL I-SHL I-SHL I-SHL	request
+40	Nou bezwen manje,tant,dra,dlo,kob. Nou loje nan Croix-des-Missionsrout Butte Boyer anndan legliz Mormon an. Nou o nonb de 50. Pascale Saint Georges	O O B-OTH B-WAT O O B-SHL O O B-FD I-FD O O O O O O O O O O	request
+41	moun sou dal blok site limy, chevalye : pa gen dlo potab, tant, remd, manje.  svp, fe yon bagay pou nou	O O O O O O B-WAT O O O O O O O O O O O O O O O	request
+42	Poukisa croix des bouquets zone dagout nou ki nan lakou nou pa jwen anyen nan mwen pam	O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL O O O O O O O	request
+43	chose a manger.  Aidez-moi Dieu vous rendra le plus! Merci.  .	O O B-FD O O O O B-OTH O O O O O	request
+44	Nou pa malad, ok nou grangou, nou mande aide depuis lontan yo pa janm voye, nou pa gen tant pou nou domi, fe sak pi fasil la pou nou svp.	O O O O O B-FD I-FD I-FD I-FD I-FD O O O O O O O B-SHL I-SHL O O O O O O O O O O O	request
+45	J ai besoin de nourriture je ss au champ de mars j ai besoin d eau	O O O O O O O B-WAT I-WAT O B-MED I-MED O O O O	request
+46	Se pa sel P.  a.  P ki bezwen tant.  nou menm nan Matye ( leyogn ) nou gen bezwen tant tou	O O O O O O O O O O O O B-SHL I-SHL I-SHL I-SHL O O O O O O O O	request
+47	tanpri souple nou nan necesite manje.  Dlo.  Kote poun rete ak tout timoun nou tanpri.  103 sou andan	O O O O B-OTH B-SHL O B-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O O	request
+48	Moinsyon victime moinret bonrepos serin mapedormir madame moinyontimoume moinpagenmange poume bayo silvousplait dirigent yowsanous caferpourmoin	O O B-FD I-FD I-FD O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL	request
+49	E pou nou nan radio a ka fe pase mesaj sa pou nou ki koush nan lari anba yon serin.   si yon lapli ta riv tonbe nou tout ap ml, mwen mande pou nou fe m	O O O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL B-FD O B-SHL O O O O O O O O O O O O O O O O O O O O O O O	request
+50	Bonsoir nou se 8 moun ki sinistre ki refigye nan kwa dbouk duval 3o.  nou ta remen benefisye de kits alimentaire ak 2 tente.  merci pou konprensyon nou	O O O O O O O O O O O O O O O O O O O O B-FD I-FD O O O O O O B-SHL O	request
+51	Bonjou koman nou ye? Mwen we nou bliyem poukisa nou pavle edem ?mwen vle fe yon sel pys kay ,mwen bloke nan wout poutt tel ,map tann repons se toujou.  Haiti c'est notre pays a nous de le recontruire mais nous attendons vos appuis,sur toute form	O O O O O O O O B-FD O O O O O O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL O O O O O O O O O O O O O O B-OTH O O O O O O O	request
+52	Sa se pr moun ki gen nou se ak dra nou bare lapli mouye nou yom moun pa pase we nou se tande n tande yap bay prela sf nan simon n ye	O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O O O O O O O O O O O O O O	request
+53	Rlle canne--sucre prolonge(carrefour) Nou bezwen Tant,dlo,manje.	O B-WAT B-FD O B-SHL B-FD	request
+54	Bonjou, nou abite nan la plaine zon wout nasyonal #1, antre kafou vensan zon bary f.  Silvoupl nou gen bezwen manje, dlo potab, tant etc.  .	O O O O O O B-SHL I-SHL I-SHL O B-SHL O O O O O O O O O O O B-OTH I-OTH O O O O	request
+55	Si yon moun ap demi nan seren, li ta renmen jwenn prela oubyen tant, li nan depatman lws ki kote pou li ale.  M'ap tann repons nou.  .	O O O O O O O O O O O B-SHL O B-SHL O O O O O O O O O O O O O O O O	request
+56	nou pran twop seren nou ta renmen yo voye tant pou nou paske nou gen 5 ti bebe kap domi avek nou nan seren sa tant la enpotan pou nou anpil mesi.  I need	O O O O O O O O O B-OTH I-OTH I-OTH O O O O O O O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL O O O O O O	request
+57	nous sommes 500 rescapes sans domicile a la rue panamericaine p u entre la rue besse et la rue astre nous manquons eau nourriture nec toilette qui devon	O O O O B-SHL I-SHL O O B-WAT I-WAT I-WAT I-WAT I-WAT O O O O O O B-FD I-FD I-FD O B-FD I-FD O O O	request
+58	SilvouplE NOU NAN LAMANTEN 54 DEPI TRANBLEMAN AN NOU PA Jwenn okenn moun vin mande nou sa nou pot pou vann.  nan sans sa a nou mande tanpri souple nou menm	O O O B-FD O O O O O O O O O O O O O O O O O O O O O B-OTH I-OTH I-OTH I-OTH O O O	request
+59	Nou bezouin aide nan delma 9 rue du cosquer  16	O O O O O O O O B-OTH I-OTH O	request
+60	Nou mande Aide pou delmas 9 yo bliye nou nt!	O O B-OTH O O O O B-OTH I-OTH I-OTH	request
+61	Comment peut-on se proteger dans le cas d'un tsunami?	O O O O O O O O B-SHL	request
+62	Mwen gin de pitit kay mwen kraze mwen terete kafou feil marim mouri mwen ekri nou pou nou w kisa pou nou tafe pou mwen avec de pitit gason m	O O O O O O O B-SHL O O B-OTH I-OTH I-OTH O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O	request
+63	Salut, je vous ecris juste pour avoir un aide car ns sommes victimes du earthquake	O O O O O O O B-OTH I-OTH O O O B-SHL O O	request
+64	je suis un orphelin apres le seime cmment pouvez vous m'aider svp	O O O O O O O O B-SHL O O O	request
+65	Tremblement de terre au chilie.  J'aimerais avoir des informations concernant.	B-OTH I-OTH I-OTH I-OTH I-OTH O B-OTH I-OTH I-OTH O O	request
+66	information sur cyclone s.  il vous plait merci davance	O O O B-OTH I-OTH I-OTH I-OTH I-OTH O B-SHL	request
+67	sistans nan zon sa a voire pou nou ta jwenn sa yo rele ed la de enstans imanite ki la yo.  nap fe apel sa a pou nou we nan mannye nou menm, ki sanse nan m	O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O B-OTH O O O O O O O O O O O O O O O O O B-OTH O O	request
+68	Bonsoir, prire de voler au secours des victimes sans abris qui sont  Morin, section communale de Taifer/commune de K-Fou.  Merci	O O O O O O O O B-SHL I-SHL O O O O O O O O O O O O	request
+69	Nou menm nan mon repos 38 carrefour, nou bezwen ed paske nou pa nan foul nou pa janm jwenn anyen tanpri fe pase mesaj la pou mwen	O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O	request
+70	Salut nous somme a santo 2 prolonge nous avons besoin de l'aide	O O B-SHL I-SHL I-SHL I-SHL O O O O O B-OTH	request
+71	infomasyon sou tranblemandete ki gen pou pase a	B-OTH I-OTH I-OTH O O O O O	request
+72	Tanpri souple nou menm nan grand rue bloc portail saint joseph ( lakou gerard ) di eseye cre yon mwayen de vie pou nou paske nou pa santi.  n k ret viv anko	O O O B-WAT O O O O B-OTH O O O O O O O O O O O O O O O O O O O O O O O O O	request
+73	Aider nous a reconstruire ecole paradis qui se situe a anse a galets la gonave apres hopital wesleyenne	B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O B-SHL I-SHL O O B-OTH I-OTH I-OTH I-OTH O O	request
+74	pourquoi on ne pense pas moi jusqu' maintenant je n'ai aucune activiti pour prendre soin de ma famille	O O O O O O O B-SHL O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH	request
+75	Face a cette situation dramatique que connait le pays, est ce que le Ministre des finances sera en mesure de rmunerer les fonctionnaires publics?	O O O O B-FD O O O O O O O O O O O O O O O O O O O	request
+76	Eske pa gen ed pou croix des bouquets	O O O O O O O O	request
+77	Aide pou Delmas 9 rue du cosquer svp!	B-OTH O B-OTH I-OTH I-OTH I-OTH I-OTH B-SHL	request
+78	Mwen rete kafou, juvnat collage SC.  M ta renmen nou vin teste kay la pou mwen si nou ka rantre anndanl.  Anplis moun ap fe n pa toujou pou yon lot tranblemante	O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O O O O O O O O O O O O	request
+79	Nou se yon gwoup polisye gen yon ti moun ki vivan nan ri di sant bo legliz st anne voye sekou pou li	O O O O O O O O O O B-SHL O O O O O O O O O B-MED O O	request
+80	Nou menm paran, nou rele anmwey e pote yon demanti fml a gouvenman sa a ki mande pou timoun nou yo al antre anba yon paket lekol silfire.  yon pa nou pap f.	O O O O O B-FD I-FD O O O O O O O O O O O O O O O O O O O O O O O O O O O	request
+81	L'information sur le tremblement de terre d'haiti.	O O O O O O O	request
+82	M bezwen plis sou enfomasyon sou saisme lan	O O O O O O O O	request
+83	es linges du bb se retrouent sous les decombes les biberons etc tous ce ki est primordiale pr un bebe alors nous avons besoin grandement tes mains fortes	O O O O O O B-OTH I-OTH I-OTH O O B-SHL O O O O O O O O O O O O O O O O	request
+84	Mwen mande pou nou voye jenou nan lilavoi 23 e 28 bagay la komanse di anpil pounou mesi ( laplan )	O O O O O O O O O O O B-SHL O O O O O O O O O	request
+85	Nous avons besoin d'aide.  USAID, FAO, UNICEF ou vous etes?	O O O B-OTH O O B-SHL O O O O	request
+86	Nou victim de tranbleman de te a nou pa gin courage pou nou rete port au prince nou oblige ran n anprovince dikote de ponsonde noulagu	O O O O O O O O O B-SHL O O O O O O O O O O O O O O O O	request
+87	Saint Marc chaje sinistre kisa gouvenman an ap fe pou nou.	O O O O B-OTH I-OTH I-OTH I-OTH O O O	request
+88	Wen genyen po blem es ke nou ka e dem sile vou ples se monterne a bu te peleren 9 p	O O O O O O O O O B-SHL O B-OTH B-SHL O O O O O B-OTH O O	request
+89	Nou nan peyi a ayiti miz ap touye nou depi nou soti potoprens nou andey fon voye ed nan zon sa yo	O B-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O	request
+90	Koman nou ye? Tanpri souple andan nan delmas 33 nan cite castro rue toussaint, nou groupe nou pa janm jwen menm yon sache dlo nap mouri grangou serin fin	O O O O O B-SHL O O O O O O B-OTH I-OTH O O O O O O O O B-WAT I-WAT O B-FD I-FD O O	request
+91	Denletrenblemen deter je perdir 4 personnes sen conte pied coupe	B-MED O O O B-MED I-MED O O O O	other
+92	Tanpri map soufri banm yon chans pou mwen rantre yon kat poum sove yon vi oubyen rele nimewo a.  Mesi pou konpreyanson nou.	O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O B-MED I-MED I-MED I-MED	other
+93	unique centre hospitalier est depass et nous accueillons dj plus	O O O O O O O B-OTH O O	other
+94	Je suis tudiante en mdecine, je voudrais trouver un travail d'assistance aux malades	O O O O B-MED I-MED I-MED I-MED O O B-MED I-MED I-MED	other
+95	Port au prince a fait combien de mort et disparut?	B-MED I-MED I-MED O O B-OTH I-OTH I-OTH I-OTH I-OTH	other
+96	Nou hberger anviron 1500 moun nan zon delma 75 pi ba otel le flanboyant sou la main dwat nan rout ta a nan dnye prent lan nou bezwen dlo, mange ede no	B-OTH I-OTH I-OTH O O O O O B-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT O O B-FD I-FD I-FD I-FD I-FD I-FD O O O B-WAT I-WAT B-FD B-OTH O	other
+97	Nou mande minis te lasant piblik.  ede nou avec mouche mouc.  stik nan tout abri yo sitou zon n canape.  v	O B-WAT I-WAT I-WAT I-WAT I-WAT I-WAT O O B-OTH O O O O O B-SHL I-SHL O O O O O O O	other
+98	Carrefour, Mahotire 81, rue desdune nou pa janm jwenn anyen.  pa menm yon sache dlo.	O B-WAT I-WAT O O O O B-OTH O O O O O O B-WAT I-WAT	other
+99	nou se selil de soutyen nan vilaj de dye zon bisantn.  N'ap mande pou yo pote dlo ak manje pou moun yo paske y'ap mouri grangou.	O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O O O O O B-FD I-FD I-FD I-FD	other
+100	fit des habitants qui dorment a la belle etoile sur le terrain de Lilavois 50 et qui meurent de faim depuis le 12 janvier.	O B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL O O B-FD O O O O O O	other
+101	veillez surtt a c kon n vende pa les nourritures distribuees, creez 1 systeme d securite pdt ke lon distribue les nourritures	O O O O O O O O O B-SHL O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O B-FD I-FD I-FD	other
+102	Ki sa pou nou fe ak timoun yo kosnan lekol la e pui kile moun duval nan croi des bouket ap jwen manje pou met nan vant yo	O O O O O O O O B-WAT O O O O O O O O O O B-FD I-FD I-FD I-FD I-FD O O O O	other
+103	, maintenant je laise la ville par ce que famines tombe vraiment dans une ville de p -au -p.  ma mere et mon pere qui toujours a en voyez pour mo	O O O O O O O O O O B-FD I-FD I-FD O O O O O O O O O O O O O O O O O O O	other
+104	yap voye manje anle pou fe moun goumen.  . .  Merci!	O O B-FD I-FD I-FD I-FD I-FD O O O O O B-SHL	other
+105	Map salye tout moun group 4636 e map di yo kouraj kenbe la pa lage poun ka sove peyi a.  Se nou tout ki pou mobilize mete men nan pat la poun fe pen an ann	O O O O B-FD O O O O O O O O O O B-FD I-FD I-FD I-FD I-FD O O O O O O O O O O O O O O O O O	other
+106	Distribion alimant fet an dezd sitou pou moun rout fr	O B-FD O O O O O O O O	other
+107	J.  a.  s : club des jeunes pour l'avancement de saintard veut de l'aide pour les personnes inccapable de trouver quelques choses a manger nous t'en prions de	O O O O O O O O O O O O B-SHL O O O O O O O O O O B-FD I-FD I-FD O O O O	other
+108	comment aid imanitaire yo ap dewoule nan semaine sa.	O O O O O O O B-SHL O	other
+109	Tgen yon tranblement de terre kiti pase nan nord pays d'haiti st an 1842 bulan trt inconnue	O O B-FD O B-FD I-FD I-FD I-FD I-FD O O O O O O O O	other
+110	Sante travail,nourriture,protection.	B-MED B-OTH	other
+111	nou menm soti nan delma 2 e4 nou vini bati tant nou la polis vini mete nou deyo nou man mande pou leta di yonmo se plas avi a syon nouye.	O O O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL O O O O O O O O O O O O O O O O O O O	other
+112	Salut! J'ai l'impression qu'on ne prete attention qu'aux victimes regroups dans un centre d'hbergement.  Et ceux-l qui s'abritent non loin de leurs quartiers?	O O O O O B-SHL I-SHL I-SHL B-OTH O O B-SHL I-SHL I-SHL I-SHL B-OTH I-OTH I-OTH I-OTH O O O O O	other
+113	Enfomasyon sou tranbleman de te a.	B-OTH I-OTH I-OTH O O O	other
+114	C un groupe de travailleurs sociaux, de psychologues et de sociologues bases aux gves depuis apres le dsastre voulant offrir un accompagnemnt psychosocial	O O O O O O O O O O O O O O O O B-OTH I-OTH I-OTH O O B-OTH I-OTH	other
+115	Sites pour verifier lamplitude et la magnitude du saisme.	O O O B-OTH I-OTH I-OTH I-OTH O B-OTH	other
+116	Le nord est il en risque du seisme ou du tsunamie aujourd'hui	O O O O O O O O O O O O	other
+117	On m'a fait savoir que st-marc et port-de-paix ont t touchs par un faible seisme aujourdhui.  j'aimerais qu'on me le comfirme.	O O O O O O O O O O O O O O B-SHL I-SHL I-SHL B-OTH O O O B-OTH	other
+118	Bonjour  vous operateurs,je vais vous demander une information. Est qu'il aurait existe des risques de repliques vraiment  la fin de ce mois d'avril en Haiti.	O O O O O O B-SHL O B-OTH O O B-OTH O O O O B-SHL O O O O O O O O O B-OTH	other
+119	Information sur le tremblement de terre et les disparuts	O O O O O O O B-OTH I-OTH	other
+120	Pawl di Lafrans pre pou ede etidyan ayisyen eske se vre?	O O O O O O B-FD O O O O	other
+121	Tanpri a konbyen tremblement de terre a pase la	B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O B-SHL O	other
+122	quand finira les replique est ce que est il pourra avoir un autre tremblement de terre sur p.  a.  p	O O O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O	other
+123	Apres le seisme, je suis tomb dans le desespoir.	O O O O O O O O O	other
+124	u pase mesag la pou mwen, parceque mwen tande yo bay unicef aide pou lv lekol.  Mesi	O O O O O O B-OTH I-OTH I-OTH O O O O O O O O O	other
+125	J'ai 20ans, ( gar on ) e je voudrais servir volontier mes frres hahtien.	O O O O O O O O O B-OTH I-OTH O B-OTH O	other
+126	Quels sont les effets psychologiques sur un peuple apres un tramblement de terre ?	O O O B-OTH I-OTH I-OTH I-OTH B-SHL O O O O O O	other
+127	Jodi a se tout ayisyen ki strese pou dat 12, 13, 14 fevrier.  sa nou ka fe pou ede moun sa yo.	O O O O O O O O O B-SHL O O O O B-OTH I-OTH I-OTH I-OTH I-OTH O B-FD O O	other
+128	gen moun k'ap demi nan lari ank, pou tout timoun ale lekol, pou nou gen yon peyi pou etranje anvi kite peyi yo vin viv an ayiti.	O O O O O O O O B-OTH I-OTH I-OTH I-OTH O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH	other
+129	je voudrais un emploi apres le catastrophe du 12 janvier.	O O O O B-OTH I-OTH I-OTH O O B-OTH	other
+130	Vous etes enregistre comme destinataire de message SOS	O O O O O O B-SHL O	other
+131	Je SUIS AUXGONAVes ma VIlle NATALE j ai tout perdu apres le saism	O B-OTH I-OTH O B-OTH I-OTH O O O O O O O	other
+132	Mwen pran nouvel lanmi a gen pou li anvayi yon pati nan peyi a, eske se vre	O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O	other
+133	Comment se protger lors d'un seisme?	O O O O O O	other
+134	ger pr toutes la populations croix desprez zone pacot nous aimerions avoir des informations aupres de vous.  Merci pour votre aides.	O O O O O O O B-OTH O O B-OTH I-OTH O B-OTH O O O O O O O O	other
+135	Comment pourrais je participer dans la reconstruction du pays	O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH	other
+136	Tremblement de terre Port-au-Prince svp	B-OTH I-OTH I-OTH O O	other
+137	plusieurs personnes partouts dans le pays.  prcisement dans le plateau central commence d'attaquer la folie.  vue par rapport tout ce qui passe/la seisme 12 jnv	O O O O O O O B-OTH I-OTH O O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O	other
+138	Mouin ta remen se minista yo ki pou separ d yo paske li se haitien yo ser tout.  gro zizi yo tou profiti ap mang sou ti maler yo pase mesag sa pou mouin	O O O O O O O O O O O B-OTH I-OTH I-OTH I-OTH O B-FD O O O O O O O O O O O O O O O O O O	other
+139	Bonsoir, je veux m'inscrire au programme de diffusion d'in formation que vous venez de mettre en place.  Je vous en remercie	O O O O O O O B-OTH O O O O O O O O O O O O O O	other
+140	Mta renmen gen tout enfo pou jodia s.  v.  p	O O O O O O O O O O O O	other
+141	Map mande nou enfomasyon eske ap genyen trablfman pou potoprens a swa	O O O O O O O O O B-SHL I-SHL O	other
+142	Ki kote port0au prince ye pa rapt trenblement ta a	O O O B-OTH I-OTH I-OTH I-OTH O O O	other
+143	Fem pale gratis svp mesi davans.	O B-OTH I-OTH O O B-WAT	other
+144	Enfomatyon sou treblemen de terre	O O B-OTH I-OTH I-OTH	other
+145	Eske militaire americain vini vrman pou ocupe nou?epi eske lekol ap louvri pot li pou lane sa?	O O O O O B-OTH I-OTH O B-OTH O O O O O O O O	other
+146	. .  .	O O O O	other
+147	Mesi pou tout enfomasyon sa yo, bontravay	O O O B-OTH O O O	other
+148	Message received.  Message recu.  Mesaj ou ale	O O O O O O O O O	other
+149	f la kise moniquk fasa pou mwen s v p map mouri mwen gen tout po blem ede m	O O O O O O O O O O O B-FD O O O O O O O	other
+150	Est -ce que le service de visa de tourisme de l' ambassade americaine reprend ses services ?	O O O O O O O O B-OTH O O B-SHL O B-OTH O O O	other
+151	Si ou ta gen bezwen yon entprt pou entprete pou blan ou met relem sou#sa dak?sms de Olsoen Dcus.	O O O O O O O O O O O O O O O O O O O	other
+152	nou pap ka reponn tout moun men mwen felicite nou paske nou solide ak peuple Haitien an ke Dios bann plis kourag pou nou ede tranpri mkonte sou nou ke no	O O O O O O O O O B-SHL O O O O O O O O O O O O O O O O O O O O O	other
+153	Je te salue infiniment.  Je sens triste parceque je meurs de fain sil te plait aide moi et mes famille.	O O O O O O O O O O B-SHL O B-FD O O O B-MED O O O O	other
+154	m'aimais aussi profond que je t'aime, mais c'tais le contraire.  La dtresse et la tristesse revienne moi tout seul tout simplement parce que je te fais	O O O O O O B-OTH O O O O O O O O O O O O O O O O O O O O	other
+155	salut!je suis nietzche,j aimerais exactement la date de la reouverture des classe en haiti merci.	O O O O B-OTH O O O O B-SHL O O O O O	other
+156	Puisque pa gen mwayen pou moun fe pasp, e moun nan bezwen antre sen domeng paske kay li kraze tout fanmi l mouri li bezwen ale kisa poul fe	O O O O O O O B-OTH O O O O O O O O O O O O O O O O B-WAT O O O O	other
+157	Je voudrais m'informer un peu sur la rouverture scolaire.  Auriez-vous la gentillesse de m'aider S. V. P ? PETIT-DAY Louisson	O O B-SHL O O O O O O O O O O O O O O O O O O	other
+158	Prcaution a prendre pr le sime qui aura a frapp haiti une deuxieme fois	O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH O O O O	other
+159	Mwen pa konnen rue du muguet, route de desprez 7 la.  eske pa gen yon lot adres sou wout aeroport la.	O O O O O O O O B-OTH O O O B-SHL O O O O O B-OTH O O O	other
+160	( )Le but de la vie c'est d'etre heureux mais Ns vivons les moments les plus difficiles et en ces temps de dtresse.  La vie devient amare mais on doit tjrs garder espoir que Dieu changera les detresses et de meilleurs jours arriveront.  je veux que tu	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-OTH I-OTH I-OTH O O O O O	other
+161	Je suis a carrefour est ce j'aurais la possibliter d'aller a l'cole cette anne?	O O O B-WAT O O B-OTH I-OTH I-OTH O O B-OTH O O	other
+162	Kiro unitansfe ki ouvri jakmel koua pou mwen ka ale chache transfe mesi beaucoup	O O O O O O O O O O B-OTH I-OTH O B-FD	other
+163	On dit quoi? On dit une autre Hayiti est possible, a des nous gens et a des nouvelles structures.  Une autre Hayiti possible.  Merci	O O O O O O O O O B-SHL O O O O O O O O O O O O O O O O	other
+164	Envoie pour moi un autre mesage meci	O O O B-OTH I-OTH I-OTH O	other
+165	Un front froid se retrouve sur Cuba ce matin.  Il pourrait traverser Haiti demain.  Des averses de pluie isolee sont encore prevues sur notre region ce soi	O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O O O O O O O O	other
+166	Eske gen posibilite pou ayiti touche pa sonami	O O O O O O O O	other
+167	Je voudrais savoir le nombre de mort enregistra au cour du seisme.	O O O O O O O O O B-OTH O O	other
+168	Svp envoie moi le numemero telephone de radio on, pour participer  son emission sportive.	O O O O B-OTH I-OTH I-OTH I-OTH I-OTH B-SHL O O O O O	other
+169	Slt, eske mka jwenn adres anbasad belgique angleterre espagne mesi davans.	O O O O O O B-OTH B-WAT O O O	other
+170	Nou reyini yon ti kote se 4 famiy ki yon sel kote, nou gen 2 blese	O O O O O O O B-OTH O O B-FD O O O O O	request
+171	nou na matisan nou gen probleme medikaman et dlo et vetemen	O O O O O B-SHL O O O B-WAT I-WAT	request
+172	nn anyen nou bezwen dlo manje medikaman adres nou se merger an fas	O O O O O B-MED B-OTH O O O O O O	request
+173	Svp pandan tranbleman de terre a te pase a li kraze kay nou te rete a epi genyen blok ki tonbe nou silvoupl nou bezwen yon aide se elv lekol nou ye nou	O O O O B-MED I-MED B-SHL O B-SHL O O O O O O O O B-OTH O O O O O O B-SHL I-SHL I-SHL O O O O O B-SHL	request
+174	Pandan tranbleman mwen te frape fort nan tet depi jou sa lap banm anpil pwoblem le lap fem mal li fem pa w byen m bezwen konnen kibo map jwen aide sa	O O B-MED O O O O O O O O B-OTH O B-FD O O O O O O O O O O O O O O B-MED O O O	request
+175	ki kote mounn fort mercredi ka jwenn dlo ak manje?	O O B-SHL O B-OTH O O O O O	request
+176	Nou nan tigwav se nan seren nap demi, mm tikay la nou pa jwenn, nou grangou, dlo yo pa trete.  svp ede nou.  Av.  Libte Wislandynia	O O O O O B-MED O B-WAT O B-FD O O O O O O O O O O O O O O O O O O O	request
+177	Mwen nan kafou fy zon dekayt nou beswen dlo potab paske dyare ap fini ave nou.	O O O O B-WAT O B-OTH O O O O O O B-FD O O	request
+178	Nou nan delmas83 rue B.  Canal nou bezwen dlo, paske dlo basen ke nap sevi kale but, svp eskew ka fe nou jwenn yon ti dlo trete, pif jan fi nan zon f enfektyon.	O O O O O O B-WAT I-WAT O B-OTH O O O O O O O O O O O O O O O O O O O O O O O O B-OTH	request
+179	Bonswa nou ta renmen jwenn ed, nou rete laplan maren 26 kay nou kraze nou ta al fe tank sou teren montana men nou pa kapab paske li fann sous dlo pete so	O O O O B-SHL O O O B-FD O O O O O O O O O O O O O O O O O B-OTH O O O O O O	request
+180	mwen ap viv ak 6 moun, nou ta renmen jwenn tant, manje, dlo.  mesi anpil.	O O O O O B-OTH O O O O O B-SHL O O B-SHL I-SHL	request
+181	lm atre mwen w bagay la kap ralel f bak epi kwen tonbe sou li ak tout biblo ak televizyon, pwoblem nou gen la se dlo ak grangou kap fin f fyl mwen, f	O O O O O O O O O B-OTH O O O O O O O O O O O O O O O O O O B-MED O O O B-OTH O	request
+182	Eske nou ka fem jwen yon tant svp? Mwen gen pwoblem poum domi.  Mesi anpil	O O O O O O B-SHL O B-WAT O B-MED O B-WAT O O O	request
+183	Nom pa m se Elson Folien eske map jwenn li, seyon tant seren an fem gripe anpil svp	O O O O O O O B-SHL B-WAT O O O O O O O O O	request
+184	Salut mesieurs et dames mwen se yon viktim 12 janvier lapli a banm anpil problem koman nou ka edem jwen yon tant menm prela m pa genyen	O O O O O O O O O B-SHL O O O O O O O O O O O O O O O O O	request
+185	Mwen se viktim, men m pa janm jwenn okenn ed.	O O O O O O B-OTH O O O	request
+186	Eske tranbleman 2 te a ap pase anko	O B-OTH I-OTH O O O B-MED O	request
+187	Slt  vs.  moun delma 32 pa gen kouran mwen ta renmen pou EDH bay li chak apres midi. edem svp paske kouran edem retire stress.	O O O O O O O O B-MED O B-SHL O B-SHL O O O O O O O O O O O O O O	request
+188	blije voye tcheke kap bay nou ti kout men.	O O O O B-SHL O O B-MED B-WAT	request
+189	Hallo mwen gen anpil pwoblem mwen pa jwenn manjen pou m manje mwen pa jwenn travay pou fe.  Tanpri fem jwenn travay	B-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD O O O O O O O O O O O O O O O	request
+190	Mwen se yon viktim mwen ta renmen al sen domeng.  Koman poum f?	O O O O B-MED O O O B-FD O O O O O	request
+191	Mwen pa genyen anyen ki rete menm rad mwen te oblije antre pdepi anyen pa mache mwen se yon profesyonel m etidye kontabilite w kisa nou ka fe pou mwen	B-SHL O O O O O O O O O O O O O O O O O O O O O O O B-OTH O O O O B-FD	request
+192	in manich ke moun ki t ap soutni yo viktim.  ede m jwenn yon oganism	O B-SHL O O O O O B-MED O B-SHL O O O O O B-OTH	request
+193	Sivouple mwen tarenmen konnen eske ed yo sepou selman potoprens yo ye?paske andey yo fwape tou	O O O B-MED B-FD O O B-OTH O O O O O O O O	other
+194	Anpil moun ap soufri ak sifilis bo lakay nou, men se moun ki gen sida ki entrese xp sante yo.	O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O B-FD O O O O	other
+195	yiti ( Miragoane ) si te moun sa yo mis tap getan touye nou.  epi fok distrybye a trav tout vil pwovens yo majorite moun ki sot nan kapital yo se nan vil de	O O B-OTH O O O B-OTH O O O O O B-SHL O O O O O O O O O O O O O O O O O O O O O O	other
+196	Gen moun ki di tranblemand ta a ap fini 12 fevriye eske se vre.	O O O O O O O O O B-SHL I-SHL O O O	other
+197	Mwen ta renmen konnen eske se vre ed manje a kanpe 1e avril?	B-OTH O B-MED O O O O O O O B-OTH O O	other
+198	Mwen ta renmen konnen eske nou ka antre andedan kay dalpeton ki pa fisire eske tranbleman de ta a ap pase ank mesi rps	O O B-MED O O O O O B-OTH O O O O O O O O O O O O O O O	other
+199	Si gen tant kap distribiye, fe tout sa nou ka f, poum ka jwenn younn svp.	O O O O B-SHL O O O B-SHL O O O O B-FD O O	other
+200	Jska mentnan mwen pa janm jwenn anyen nan ed la, ed la la se vre men se pa tou moun ki jwenn li.  afe fok yon moun gen tant poul jwenn kat se demagoji, nou konnen tre byen se poupilasyon ki anba tant e anpil moun ki anba tant se sou blof yo ye, gen moun ki t	O B-SHL O O O B-OTH O O O O O O O O O B-FD O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-SHL I-SHL I-SHL O	other
+201	mwen bezwen konnen eske ed yo bloke tout bon vre	O O O O O O B-OTH O O O	other
+202	Mwen ta renmen gen enfomasyon konsnan seisme ki anonse	B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH	other
+203	Bonjou, mwen ta renmen gen enfomasyon konsnan kantite ed ayiti deja resevwa e ki sa kap an faf vikti m yo	O O B-OTH O O O B-SHL O O O O O O O O O O O O O O	other
+204	Mwen ta renmen konne sa ke nou fe avek d ki soti lot ba yo	B-SHL O O O O O B-SHL O B-SHL O O B-FD B-MED O O	other
+205	Mwen ta renmen konnen si tranbleman te fini.  merci.	O O O B-WAT O B-OTH O O O O	other
+206	te a tranble eskel pa komet anpil dega	B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH	other
+207	nap mande poun pa bliye sides la paske nou viktim anpil.  6515O96	O O O O O O O O O O B-OTH O B-FD	other
+208	Mwen ta renmen konnen si gen risk yon lot replik de manyitid 7.  1 a	B-SHL O O O O O B-OTH O O B-OTH O B-SHL O O O O	other
+209	n ta renmen tou swit kontinye etid mwen poum ka itil tet mwen ak peyim mesi paske nou chwazi ede jenn ayisyen yo ki frape anba gwo trajedi sa yo.	O O B-SHL O O B-MED O B-SHL O B-OTH O O B-OTH O B-FD O O O O O O O O O O O O O O O	other
+210	Eske moun ka rete anndan kay beton la jounen men gen koride men se lm bezwen fe manje ak etudye	O O O O O O O O O B-SHL O O O O O O O B-OTH I-OTH O	other
+211	Yon moun ki lagonav kapab kapte BBC so ki frekans souple?	O O O O B-FD O B-WAT O O O O	other
+212	Nonm c DM mwen ta renmen konnen ki ONG kap f rekritman famasyen e/ou travay sosyal svp.  mesi	O O O B-SHL O B-FD O O B-OTH O O B-FD O O O O O O O	other
+213	Konbyen moun ki mouri nan tranbleman de ta a potoprens?	O O O O B-OTH B-WAT O O O O	other
+214	Eske nou pa konnen ki la fakilte syans imen ( FASCH ) ap louvri? Kil yap komanse f etidyan yo al lekl?	O O O O O O B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL	other
+215	Mwen ta renmen konnen si lekol fet libte ouv	B-SHL O B-MED B-SHL O O O B-SHL O	other
+216	Kisa ki konn f ke ta a fann moun ak kay rantre, la gen tranbleman de t?	B-FD O O O O O O B-SHL O O O B-FD O O B-OTH O O	other
+217	Nou pa byen konpran'n demand adres cyber cafe ki an fonksyon an.  Men nou gen aks ak entnt paske tout an fonksyone.  Pou tout kontak nou ka itilize adre	O O O O O O O B-FD O O B-SHL O O O O O B-SHL I-SHL I-SHL I-SHL O O O O O O O O O O O	other
+218	A a 4!6 74 yon pat finn der 4 pot koule blan li soti ak 2 pake	O B-SHL O O O O B-SHL B-WAT I-WAT O O O O O O O B-OTH	other
+219	Ki kote yon fanm ansent ka fe yon ekografi105	O O B-FD O B-FD I-FD O O O	other
+220	en resansman ki fet men anpil kay ki kraze moun ki blese ki mouri se yon katastrof.  Mezanmi fe yon efo pou moun sa yo.  Adres nou se route de frere pernier	O O O O O B-WAT O O O O O O O O O B-OTH O O B-MED O O O O O O O O O O O O O B-SHL O	request
+221	Mwen gen yon moun nan Delmas 33 Zn Silo ki frape nan tet, tanpri voye yon kat fe m kado	O O O O O B-MED I-MED I-MED I-MED I-MED O O O O O O O O O O	request
+222	Merci pou konsey yo, nan ki fason nap edem benefisye yon tant paske jiskaprezan se anba dra map demi	O B-FD O O B-FD I-FD O O B-MED B-SHL O O O O O O O O O	request
+223	Fanmiy ak zanmi m ki blese yo nan lopital ench.	B-FD O B-SHL O O O O O O O	request
+224	Mezanmi tampri souple gen yon pil moun min laza, miso, ak delmas 60 ki nan delmas 60 nan plizie ti abri anviron 3000.  Yo bezyen dlo, manje, syen ijyn ak	B-FD O O B-SHL O O O O B-FD O O B-OTH O O O O O O B-WAT I-WAT I-WAT I-WAT I-WAT I-WAT O O O O B-MED O O	request
+225	nan savann yap demi se ma dlo nan sous yap bw mwen inkyete anpil de etid mwen mwen pa konn ki sam pral fe s.  v.  p w si na fe yon fason pou mwe kontinye	O B-FD O O B-FD I-FD I-FD O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	request
+226	Ye yo reyisi banm yon tidiri mesi pam	B-WAT O O B-FD O B-FD O O	request
+227	Mwen ta renmen kon nen kisa yap fe ak kay ki kraze ktf yo se dey nap demi nou ant sides e sid	O O B-SHL O O O O O O O B-FD O O O O O O O O B-SHL I-SHL I-SHL I-SHL	request
+228	Eske yap voye tant ak manje pou moun kafoufy, yo?	O O O B-FD O O O B-SHL B-FD O	request
+229	e tet mwen.  Se blan ki pou bay tant yo paske gouvenman avek polis yo pran tout tant yo.	O O B-FD O O O O B-FD I-FD O O O B-FD O O O B-SHL I-SHL I-SHL O	request
+230	Kay mwen kraze, mwen pa menm gen tant kisa leta ayisyen vlem f.	O O O O O B-SHL O O O O B-FD O O	request
+231	Gen yon kamyon ki anba yon min avek 3 moun mwen mande pou instans konsne fe yon jan pou nou.  Se nan zon demichel nan kafou.  mesi	B-SHL O O O B-SHL O O O O O B-OTH O O O O O O O O O O O O O O O O O O	request
+232	Nou nan bizoton 55 rte de k-fou, depi evenman yo nou livre a nou menm se tande nou tande yap bay kat nan lot zon nou pa janm ko jwenn anyen, nap mande ta	B-WAT O O O O O O B-MED I-MED I-MED O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O B-OTH I-OTH I-OTH I-OTH O O O O O	request
+233	Eske moutik ke ONG yo ap bay yo gen sibstans ensktisid ki non selman anpeche moustik yo pase pou al pike moun ki kouche anba li, men ka ki touye yo tou?	O B-MED O O O B-OTH O O O B-OTH O O O O O O B-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD O O O	request
+234	e moun ki viktim yo ki genytan vin kay yon zanmi an pwovens, kouman yo ka jwenn ed pa yo?	O O O O O O B-WAT O O O B-FD O O B-OTH O O O O O O	request
+235	Nou konnen gen anpil d ki rive nan P-au-p, men gouvenman an genl bliye se nan provens anpil moun kapital la yo refijye.  Kote yo ye a yo bezyen ed tou.	B-SHL I-SHL O O O B-WAT O O O O O O O O O O O O O O O O O O O O O O O O O O	request
+236	Yo dwe arete tout moun kap vanm d yo, e yo dwe arete tou moun ki ap bay d yo tou ak ti zanmi yo pandan moun ki viktim vwman yo pa jwenn ed la.  Ansanm	O O O O B-MED O O O O O O B-SHL O O O O O O O O O O O O O O O O O B-WAT O O O O O O O	request
+237	Mwen bezyen yon sit poum ka pran nouvel yon viktim ki al pran swen aletranje tanpri	O B-FD O O B-FD O O O O B-SHL O O O B-FD O O	request
+238	Gen anpil kay ki fisure Jeremie plu precizeman Caracoli.  Kil LETA Ayisyen ap voye f Exptiz ladan yo SVP?	O O O O O O O B-MED O O O B-MED B-OTH O O O O O O O	request
+239	Mwen renmen konnen kil lekol ap ouv e ki li yap f exzamen bak pmanan yo tou	O B-FD O B-FD I-FD I-FD O O O O O O B-FD O B-OTH O O	request
+240	Nan ki degre de replik ki te pase maten 22 fevriye a ye.	O O O O O O O O O O O O O	request
+241	Ayiti bezwen rive li bezwen yon sel medikaman ki rele konsyans fok gen yon kanpay pou kandida konsyans ka pran pouvwa	O B-OTH O O B-WAT O O B-SHL O O O B-OTH O O O O O O O O O	request
+242	Prezidan tout peyi a yo map made n' pou n' ede peyi dayiti.	O O O O O O B-FD O B-OTH O O B-OTH O	request
+243	Kisa mwen ka m fe pou yon moun ki gen dyare ak vomisman?	O O O O O O B-FD B-SHL O O O O B-MED	other
+244	yon enfomasyon mwen ta renmen konnen de ed yo ap bay yo paske gen moun ki ale pran san kat	O O O O O B-FD O O O O O O O O B-OTH O O O O O	other
+245	e tout d Lot nasyon yo voye yo, nou sere 2 kamion diri bann val e	O O O B-FD I-FD O O O O O O B-FD O B-FD O O	other
+246	Map f konnen yap vann ed yo la fini yo pa bay moun yo manje pou vant yo plan fok yo pran mesi ( mezi ) kont sa, ,,,	O O O O O O O O O O O O B-FD O B-OTH O O O O O O O O O O O O O O	other
+247	ye nan yon seksyon kominal ki rele petit-Boucan, d alimante pa distribye la menm.	O O O B-FD B-WAT O O B-FD O O O O B-OTH O	other
+248	Lw dim gouvenman met machinn pm ale eske kay mw an kikraze a lap pranl san di anyen	O O O O O B-SHL I-SHL I-SHL I-SHL O O O O O O O O O	other
+249	4636 : ONG di si ou pa ka ranje yon pwela byen, fe yon staf ONG edew epi eseye gade le yap bay egzanp pou monte pwela kote ou ye a	B-FD O O O O O O B-SHL O O B-SHL B-FD O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O B-SHL O O O O	other
+250	Map voye mesaj sa pou m di a tout peyi kap voye ede peyi ayiti ke bodye gen yon sipriz pou yo espesyalman pap ameriken	O O B-OTH O B-WAT I-WAT O O O B-FD O O O O O O B-OTH O O O B-OTH I-OTH I-OTH O B-SHL	other
+251	Yo bliye fontamara 43 labelaire nan distribisyon ed yo.	B-FD O O O B-SHL O B-OTH I-OTH I-OTH	other
+252	4636 : Nasyonzini di ou menm retire kounye a tout fatra ak gravwa	O O O O O B-WAT B-FD I-FD O O O O O	other
+253	Eske yo sispann bay ed ak sinistre yo?	B-SHL O B-OTH O O O O O	other
+254	Mwn ayiti mwn se yon nan viktim yo	O O O O O O O O	other
+255	L reskonsab ba nou yon ti enfomatyon sou zaf vlkan mesi.	O O O O O O B-OTH O B-WAT O O	other
+256	Nou nan lopital imakile konsepsyon okay.  Adres intnet la se nan ri divivye hall mesi bondye beni nou !	O O O O B-SHL O O B-FD O O O O O B-OTH O O O O O O	other
+257	Nap veye ak prekosyon ok nan babyl nou te konn tande men jodia nou pa tande sa ank men sete nan CFC ki nan zon babyl koulyya se kadav anba dekonb yo	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	other
+258	Svp ki kote stasyon bis okap ki gratis yo ye.	O O O O O O O B-SHL O O	other
+259	A ki lag yon moun pa dwe pran vaksin yap bay la	O B-MED I-MED I-MED I-MED I-MED I-MED O O B-MED I-MED I-MED	request
+260	M nan komine grasye nan cesyon petiboukan yon pile mounn ki mouri	O O O O B-WAT O O O O O O O	request
+261	Ki maladi marengwen ka bay apre malaria svp?	O O O O O O O O	request
+262	ak yon malad nou pa gen anyen tout sa n te genyen anba blok nap do	O O O O O O B-WAT O O O O O O O O O	request
+263	Gen yon maladi enfeksyon kap bay anpil problem nan ayiti, kisa nou ta dwe f?	B-FD O O B-MED O O O O O O O O O O O	request
+264	Nan ki radyo nou ka tande lis non moun ki al pran swen sendomeng yo?	O O B-FD O O O O B-SHL O O O B-MED O B-OTH O	request
+265	nwa E mayigwen ap fi n manje nou.  S V P nou mande entans yo fe yon bagay pou nou.  nimewo poto a se DAS 052.	B-FD I-FD B-OTH O O O O O O O O O O B-SHL O O O O O O O O B-MED I-MED I-MED I-MED I-MED I-MED	request
+266	MWEN GENYEN ANPIL BOUTON TANPRI POTEM SEKOU	B-FD O B-SHL O O O B-FD	request
+267	Nou se yon group moun ki fe yon kanpman nan yon legliz adventis ki nan sarthe 53 kole ak garaj graham nan anfas baz jordanien yo.  Nou anpil anviron 70 e	O O O O O O O B-MED I-MED O O O B-MED O O O O O O O O O O O O O O O O B-MED O O	request
+268	Nou nan zon kadera b ansey aquobois sou yon min nou grangou nap demi nan seren nou malad nou pa gen dlo svp panse ak nou nou o nonb de 200 se vwa popila	B-SHL O O O O O B-SHL O B-FD O O O O O O O O O O O O O O O O O O O O O B-MED O O B-WAT	request
+269	Lapli komanse tonbe nan Silo.  Moun yo panike.  Se anba dra yo ye epi gen timoun piti.  Di yon mo pou yo	O B-MED O B-WAT O O O O O O B-MED B-SHL O O O B-OTH O B-OTH O O O O O O O	request
+270	Gade silvoupl sa se yon SOS AK konsne yo di ak pilt elikopt yo ke yo pase tre ba nan zon delma sitou delma 19 paske nou gen plizy malad	O O O O O O O O O O B-MED B-FD O O O O O O O O O O O O O O O O O O	request
+271	Nou abite laplan depi madi a se nan lari nap demi, kay nou kraze, grangou ak swaf ap tiye nou, nou pa kapab ank, Nou ta renmen konnen kil d yo ap komanse	O O O O O O O O O O O O O O O O O O O O O O O O B-SHL I-SHL I-SHL I-SHL O O O O O	request
+272	Nou grangou, nou swaf yo pa janm pase we nou nan kafou marasa ak santo.	B-WAT O O O O O O B-FD O O O O O O O	request
+273	Mwen abite kafoufy nan ri siko.  pa gen tant ni manje ak dlo	O B-FD O B-FD I-FD I-FD O O O B-MED O B-FD O B-SHL	request
+274	F yon bagay pou mwen pa gen mange, pa gen dlo, pa gen tante.	O O O O O O O B-FD O B-WAT O B-FD O O	request
+275	Mezanmi o men nap mouri ak swaf dlo wi nan kampch nou pa ka reziste ank bagay la di pou nou pote nou sekou nou grangou tout sa yo pote yale avek yo bar	B-FD I-FD O O O O B-WAT B-FD O O B-FD O O O O O O O O O O O O O O O O O O O O O O O	request
+276	Moun site kastwo nan Mais gate 1O bezwen ed tankou : manje, dlo, tant ak anpil lot ank.  Nou anviwon 3OOO moun nan zon sa a.	O O O O B-WAT O O O B-MED O O B-WAT O B-OTH O O B-MED O O B-SHL I-SHL I-SHL I-SHL O O O O	request
+277	kapab jwenn yon pen kotidyen se matisan mwen rete nan site letnl mesi pou konpreyansyon nou	O O O O O O B-SHL O O O O O O O B-FD O	request
+278	Moun sa yo kap nan provins pa bann e pa paket sa yo ki nou anvizage pou yo? Yo gin problem sante grangou insekirite lavicher?	O B-FD O O O B-FD I-FD O O O O O O O O O O O O O O O O B-FD O	request
+279	Bonswa se komin de tomazo Premye seksyon TRoukayman bagay yo pabon mamit diri 50dola gadesa noukaf orevwa	B-SHL O O O O B-FD O B-FD O O O O O O O O O	request
+280	c.  s.  j.  i	O B-FD O O O O O	request
+281	Bonswa nou ekri'w se pou nou mande'w yon ti d pou zon sibert a sak rele bagay manje a nou poko goute anyen, nap mande nou tanpri, fe yon kichy pou nou.	O O B-SHL O O O B-FD B-OTH O O O O O O O O O O O O O O O B-FD I-FD I-FD O O O O O O	request
+282	Anpil pousy ap touye nou kisa pou nou f?	B-FD O O O O B-SHL O O O	request
+283	ou tlman gen grangou yon moun ka ap manje yon ti fwitay yon lot pase li pranl li kouri, pou dlo ti yo vini nan zon nan chak 2 jou nou met vini ak tretman	O O O O B-WAT O O O O O O O O O O O B-OTH O O O O O O O O O O O O O B-WAT O O O O	request
+284	Gen pitie pou nou nan lagonav sitou nan palma nou pa kapab anko grangou mande otorite ki konseneyo fe yo fe yon jan	O O O O O B-FD O B-FD O O O O O B-OTH O O O O O O O O O	request
+285	8 Famiy e 2159 pason nan sant akra fe yon jan pou moun yo pa mouri grangou paske yo pa gen anyen kontakte nou nan nimewo sa, nou gen tout rape yo	O O O B-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT O B-WAT O O B-FD O O O O O O O O O B-FD O O O O O O	request
+286	Tanpri pase we nou nan matisan 7 pwolonje riyl maniga nou bezwen ti kay pou nou demi paske nou gen anpil ti moun seren pa bon pou yo nou bezwen manje n	B-WAT O O O B-WAT O O B-SHL O B-SHL I-SHL I-SHL O O O O O O O O O O O O O O O O O O O O	request
+287	Li ta bon pou repwezantan aysyen yo nan kriz lan gen avek yo ak pryorite pou soumet bay mission etranje yo.  fok nou gen plizy komisyon.  1- manje ak dlo 2	O O O O B-MED O O B-FD B-SHL I-SHL I-SHL O O O O O O O O O O O O O O O O O O O O O O	request
+288	Wibagay yograv paske pwoblem manjesepigwobagay mwengentoutsa	B-FD O O O B-FD B-WAT	request
+289	Msy pou gonsey la, mesy tou paske mwen ekri nou poum dynou gen 40fanmy nan bayld avek nanfayel cap soufri san mange, san abri toujou, nan zon bayld tampr	O B-FD O O B-FD I-FD O B-SHL O O B-FD O O B-OTH O O O B-OTH I-OTH I-OTH O O O O O O O O O	request
+290	Nap mouri pala fin nan an savo	O B-FD O B-FD O O O	request
+291	grangou ap tiye fe yon bagay pou nou silvoupl se Amos.	B-FD O O O O B-WAT O O B-FD O B-FD	request
+292	Pa voye SMS pou mwn ank ok.  SMS nou yo pa itil mwn anyen.  sam bezwen, C MANGE POUM MANGE OK	B-FD O O O O B-SHL O O B-FD O O B-OTH O B-SHL O O O O O O O O O	request
+293	Map remsye ki entenasyonal la ( CRS ) pou manje li bay maten an nan delmas 62 menm si se diri yo bay nap tann rs bagay yo.  nou bezwen tant pou lapli ya	B-FD O O B-SHL O O O O B-FD O O O O O O O O O O O O O O B-SHL I-SHL I-SHL I-SHL O O O O O O O O	request
+294	M'ap domi nan lari svp nou ka fem kado yon tant?	B-FD O B-SHL O O B-SHL O O B-SHL O O	request
+295	Nou menm mounn matye 3me seksion gran riviy leogann nap tout yap pote pou nou yo paske nou preske paka sipte anko	O B-FD O B-FD I-FD B-SHL B-OTH O O O O O O O O O O O O B-OTH I-OTH I-OTH	request
+296	Enfomasyon nou dwe konnen  sikln, edikasyon, sante, lot.  . .	B-MED O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O	request
+297	Nan zon malik nou pa jwenn anyen	O O O B-OTH I-OTH I-OTH O	request
+298	Nou se ganizasyon masseh nou sitiye nan maren nou gen anpil abri provizwa moun sa yo se moun legliz, ganizasyo, komunote a nou pa janm jwenn anyen eske n	O O B-FD I-FD O O O B-FD O O O O O O O O O O O O B-OTH I-OTH I-OTH I-OTH O O O O O	request
+299	Nou mande ed pa nou, paske nou pa jwend anyen nan zon platali.  Relys	O O O O O O O O B-MED B-OTH O O O O O	request
+300	Chezanmi m yo grangou ak fredi ap touye nou miragoan noupakapab anko	B-OTH I-OTH O B-FD I-FD B-OTH O B-FD O O B-FD O	request
+301	Bonswa s.  v.  p.  E yon bagay pou mwen se nan lapli map moulle	B-MED O O O O O O O O O O B-OTH O O B-FD O O	request
+302	ka prezan pason okenn lot nasyon pa panse ave nou tout sak vini se nan kapital la yo rete se problem desantralizasyon sa kikoz tout moun sa yo mouri nan	O O O O O O O B-OTH O O O O O O O B-FD O O O O O O O O O O O O B-OTH O	request
+303	M beswen ed, bagay yo di anpil pou nou.	O O O O O O B-OTH O B-OTH	request
+304	Nou ki ebje nan sant lunyon marya ni 1 b dlo ru o d m ruyel dessaline impas lunyon.  nou mandew eskew se renmen nou pa renmen nou?.  Apri.  B	B-FD O O O O B-SHL O O O O O O O O O O B-MED O O O O O O O B-OTH O O B-OTH O O O O O	request
+305	Nou menm nan bo bf pa jwenn ed yo bay la nou tou nou viktim anba tranbleman ta a kom pam ap f distribisyon pou bay manje mwen voye mesaj sa pou pam	O B-FD O O O B-FD I-FD O O O O B-OTH O O O O O O O O O O O O O O O O O O O O O	request
+306	Bonswa ak tout moun kif pati nasyon zini mwen ranmsiw paske mwen we adra pote kichoy pou 250 moun konsa nou jwenn kat sevit cink savon six pat yon kr	O O O O B-FD I-FD O O B-SHL O O O O O O O O O O O O O O O O B-SHL O O O O	request
+307	E ki sa nap fe pou popilasyon sa -a svp e piti pou moun nan lakou fampack ki sou rout nasyonal #1 riel lakou bwin a kote unibank	O O O B-FD O O B-FD O O O O O O O O O O O O O O O O O O O O O	request
+308	yo bliye nou net nan zonn sa.	O O B-OTH B-FD O O O	request
+309	Si yon moun pedi papay ak manmany nan Seisme la kisa yap fe pou li	O O B-SHL O B-SHL O B-OTH O B-SHL O O O O O O	request
+310	Si mwen w yon moun kap fe sa nan ki nimero pou nou kon takte lapolis	O O O O O O O O O O O B-FD O O O O	request
+311	Mwen salye nou nan non Granmt la, nou pa jwenn okenn asistans tout bagay yo rete nan capital sa lakos anpil moun nan kominote a tounen potoprens pou yo	O B-FD O O B-FD O O O O B-FD O O O O O O O O O O O O O O O B-SHL B-OTH O O	request
+312	Mwen se yon jenn gason, mwen f filo, mwen pa nan travay, e mwen kapab travay, silvoupl edem soti nan sitiyasyon sa.	O O O O B-WAT O O O O B-FD O O O B-OTH O O O O O O O O	request
+313	4636 : ONG di trete dlow ak akwatab oubyen yon ti kloroks pouw ka bwel.  siw met kloroks tann 30 minit.  sante piblik ab bay akwatab	O O B-FD O O B-FD I-FD O B-OTH O O B-WAT O O O O O O O O O O O O O B-WAT O O	other
+314	Mwen ta renmen konnen ki sa kap pase nan peyi a oke rps	B-FD O O B-SHL O O O O O O O O O	request
+315	Ki kote ki gen lopital lan zon n delma	O O O O B-MED O O O B-OTH	request
+316	Ki lopital ki an fonksyon poum ka mennen yon moun aswa.	O O O O B-MED O O B-FD O B-MED O	request
+317	Mwen se yon timoun piem kase tanpri voye yon ti manje pou mwen kapa mouri.	O O O B-MED B-FD O O O B-FD O O O O B-FD I-FD	request
+318	Li pi enpotan pou ONG yo ta ede nou jwenn kek tant.	O O B-FD O O O O O B-OTH B-SHL O O	request
+319	Mouin kraz ce nan la ri mouin ye mouin pa konnin ki li map sispann dormi nan la ri	O B-FD O O O O B-FD I-FD O O B-SHL O O O B-FD B-OTH O O O	request
+320	slt, ki kote m ka jwenn yon tant pou mwen domi.	O O B-FD I-FD O B-SHL B-FD I-FD O B-SHL O	request
+321	Svp kijan ak ki kote map ka jwenn aid sitou tant ak dlo?	O O O O O B-WAT O B-SHL I-SHL I-SHL B-WAT O O	request
+322	Mwen ta renmen konnen kisa m pou m f kay mwen kraze 12 janvye	O O O O O O B-OTH O O B-OTH I-OTH I-OTH O B-SHL	request
+323	Mwen pa janm jwenn anyen nan ed yo voye pou AYITI a.	O O O O O O O O O B-FD O O	request
+324	Mwen konnen eske tout zon an Ayiti pap patisipe nan distribisyon yo?	O O O B-WAT O O B-OTH O B-OTH I-OTH I-OTH I-OTH	request
+325	Nan Mlsennikola nou gen anpil moun ki soti Ptoprens ki pa gen anyen nan men yo, bezwen ed imanite mwen se yon manm kwawouj nan vil sa a se Valbrun Jorel	B-SHL O O O O B-MED I-MED O O O O O O O O O O O O O O O O B-OTH O O O O O B-FD O	request
+326	CHE nou poko jann jwenn anyen menn yon ti dlo nou poko ka jwenn ede	B-SHL O O O B-WAT O O O O O O B-OTH O B-OTH I-OTH	request
+327	salt, svp ki jan nou te ka edem avek kek ti enfomasyon sou evenenman.	O B-MED O O O O O O B-WAT B-FD O B-FD O O	request
+328	Bonjou RADIO ONE kom nou gen anpil moun Fon vrt ki viktim men ou konnen se Majistra a ki ta pou f vwa pap la pase men li pat konn abitye fe sa men ant	O B-FD O B-FD I-FD O O O O B-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD O O O O O O O O O O O O O O O	request
+329	Nou paka jwenn kat achte koten' ye ya.  voye yon ti kat poum.  tanpri.  m'ta renmen rele kek fanmi, malgre anpil viktim	O B-MED B-FD O B-FD O O O O B-MED O O O O O O O O O O O O O O O	request
+330	Mwen gen yon moun ki relem dim li vivan toujou nan yon maket sa nou ka fe pou li.	B-FD O O O O B-SHL B-FD O O B-SHL O O O O O O O O O	request
+331	Mwen nan okay mta renmen konnen si lokal pnud ki potoprens la tonbe paskem gen fanmim kap travay la mpa janm pran nouvel yo	B-FD O O O B-SHL O O O O O B-FD O O O O O O O O O O O B-MED O	request
+332	Mouch anvayi tou sa moun genyen.  di nou kisa n ka fe pou fabrike on solisyon pou touye yo.	O B-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O B-FD O O O O O	request
+333	anpil E nou pa gen oken nouvel li, menm ke a nou pa jwenn o mwen nou ta di li mouri.  F yo verifye nan lopital yo, sitou nan kaye rejis yo.  Mesi.  Ede n svp	B-SHL I-SHL O O O O B-OTH O B-MED O O O B-SHL B-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD I-FD O O O O O O O O O O O O O	request
+334	Kijan pou n' fe ak sitiyasyon sa e tou si m' ta vle jwenn d	O B-FD O O O B-FD O O O O O O O O O	request
+335	Poum ale lopital CDTI a mwen bezwen lajan men'm jan ak lontan svp	O O O B-SHL I-SHL B-WAT O O O O O O O	request
+336	kenn otorite pote ed ba nou epi, gen anpil timoun ki nan jatye sa.	O O B-FD O O B-WAT O O B-OTH B-FD O O O O	request
+337	Mwen ta renmen konnen lye kote yo te voye moun kite blese nan seisme 12 janvie a	O O O O O O O O B-FD O B-MED O O O O O O	other
+338	4636 : UNICEF- vaksinasyon kont lawoujol, tetanos, difteri pou timoun ki gen pipiti 7 an, ap komanse a 9 v maten an nan estad Sylvio Cator	O O O O O B-FD B-SHL O O O O O O O O O O O O O O O O O O O	other
+339	Bonswa, mennen bon ankt sou otorite yo ak lot ayisyen kap pote manje poumoun yo.  Paske yo pase pa mibale pou yal stoke manje yo latibonit, mwen ta sweteno	B-OTH O O O O O O O O O O B-FD O B-MED I-MED I-MED O O O O O O O O O O O O O O	other
+340	ske se pa yon sel kote nou ye epi map fe nou konnen zon gen espas pou konstri anpil tant se pou sa nou tann dra devan lakay nou paske vole lague ou ka re	O O O O O O O O O B-MED I-MED I-MED O O O O O O O O O O O O O O O O O B-SHL O O O O O	other
+341	Men sa mw nan kesyon lekol la, si leta ta fe plizy kanmpouis esko	B-SHL O O O O O O O O O B-SHL O B-SHL O	other
+342	Mwen ta renmen konnen ki prekosyon yon moun ka pran si genyen volkan ki an eripsyon.	O O B-SHL I-SHL O O O B-SHL O O O B-SHL O O O O	other
+343	Bonswa mwen ta rennmen konnen kil lekol ap ouv	B-SHL O O B-FD O O O O O	other
+344	Mwen ta renmen konnen ki la replik yo ap fini.	O O O B-WAT O O B-OTH O O O	other
+345	Sekous jodia c te yon replik ou byen yon lot seyis	O O B-OTH I-OTH I-OTH B-FD I-FD O B-FD O O	other
+346	Nap fe ou konnen ke apati de jodi a sevis SMS 4636 pou enfomasyon ijan	O O O O O O O B-MED I-MED B-OTH O B-SHL O B-OTH I-OTH	other
+347	Nou men'm nan vilaj rapatriye nan kan 'CEDHEP' Site soley nou pa janm jwenn pys d nan men pys ONG ni leta ayisyen moun 4oo fanmi nou responsab yo touj	B-FD O O O B-SHL O O B-MED O O O O O B-OTH O O O O O O O O O O O O O O O O	other
+348	Poukisa otorite yo pa voye vi n ede n nan mariani	O B-OTH O O O O O O O O B-MED	other
+349	Moun nan Source Corossol yon lokalite nan kafou pa jan m jwen n yon otorite vini visite nou dpi tranbleman d ta a anpil moun pedi kay yo ak tout sa yo t genyen	O O O B-WAT O O O B-OTH O O O O O B-OTH O O O O O O O O O O B-OTH I-OTH I-OTH I-OTH O O O O O O	other
+350	Bonswa mwen pale angl si tout fwa ou ta konnen kek gwoup ki bezwen entprt nou ka fem konnen sou nimero sa a,	B-OTH O O O O B-OTH O O O B-FD O O O O O O O O O O O O O	other
+351	Map salue tout moun ki vini bay aide yo konesans yo a nou mwen se yon viktime min mwen ta rinmin ginyin plis infomasion kijan mwen kapab benefisie nan	O B-SHL O O O O O O O B-OTH O O O O O O O O O O O O O B-OTH I-OTH I-OTH O B-OTH O	other
+352	Mwen ta renmen konnen sakap pase nan peyi a	O O B-OTH O B-FD B-OTH O O O	other
+353	Alo mwen konnen ansenye ti moun kindgaten n ban m yon job	O O O B-SHL O B-OTH O O B-FD I-FD O O	other
+354	Koman tansyon an ye pou jodi a? Fm konen	B-SHL O O O O O O B-SHL O	other
+355	Mwen ta renmen konnen ki pys ou bezwen pou pati al aletranje mesi map tann repons lan	B-FD O B-SHL I-SHL O O O B-FD O O O O O O O O O	other
+356	Nou veye yon mesaj mwen pa konprann.	O O O B-MED O O O	other
+357	Kisa sa leta ayisyen mete sou pye pou ka ede moun ki pedi paspo ak kat idantite yo?	O B-OTH O O B-WAT O O O O O O O O B-SHL O B-OTH O O	other
+358	Ki kote nan petyon vil nou ka Jwenn : tant, swen, lopital gratis	O B-WAT O O B-SHL O O O O O B-SHL B-OTH O	other
+359	Mwen vle abone nan sevis sa pou m ka konnen tout enfomasyon yo	B-SHL O O O B-WAT O O O O B-FD O O O	other
+360	Mewn ta renmen konnen ki sa kap fet lan leta?	O O B-WAT O O B-MED I-MED I-MED I-MED O	other
+361	Non si lapli sa vini man trave paske m gen 9 ti moun m pa gen ni tant ni prela.  koman nap kapab ede m s.  v.  p	O O O O O O O O O O O O B-MED O O B-WAT O O O B-OTH O O O B-SHL I-SHL I-SHL O O O O O	request
+362	Si mwen kfou zon Bizoton ki centre ki pi pre mwen kapab jwenn ed imaniti, tankou kit alimante, saniti, skol.	O B-WAT O O B-FD O B-MED O O B-WAT O O O O O B-MED I-MED O O O	request
+363	Lopital raboto, lapital 2 sekou bezwen medikaman, dokte sitou ortopedis paske gen anpil moun janm yo kase, dlo, manje m gen yon asosyasyon ki rele ajeded ki	O O O O O B-MED B-WAT O O O O O O O O O O O O O O O B-FD O O O O	request
+364	nou bezwen manje dlo medikaman nan zon petiplas machan komin desalin, nou anviron pre de 100MOUN KISOTI POTOPRENS KAP VIV NAN PETIPLAS MACHAN NOUPAJWENN	O B-FD O O B-FD O O O O O O O O O O O O O O O O B-FD B-SHL B-MED	request
+365	nou nan sezon la pli kisa pou nou fe paske nou nan lari.	O B-WAT O O O O O O O B-OTH B-MED B-SHL O	request
+366	Nou gen anpil pwoblem nan okap lopital paka pran moun anko vin ede nou stp	B-SHL O O O O O O O O O O O O O B-OTH	request
+367	La pase b kote nou poun ba li medikaman, pavre?	O O O B-MED O O O O B-MED B-OTH	request
+368	Fn ta ale kounye a paske papa'm ap pale anpil e m di'l se nan dlo'm prale.  Fn ta ale dey dlo tou.  Fm repons.  Apri, map mete jip djin mayo ble ki gen krim nan	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	request
+369	Nan lakou dey Biblyotk Monik Kaliks ( FOKAL ), Av Kristf, nou bezwen tant, dlo, manje tanpri.  Ede nou svp.	O O O B-FD B-WAT B-SHL I-SHL O O O O O O O O O O O O O O	request
+370	Ki kote polisye yo ka al pran manje ak dlo.	O O O O O O O B-SHL O B-OTH	request
+371	se vrman ijan paske yo pa janm pot anyen pou nou	O B-WAT O B-OTH O O B-FD O O B-FD O	request
+372	Depi evenman 12 janvye a menm yon sachet dlo mpa janm jwen kidira pou prela diri e ot.	O B-MED O B-OTH O B-FD O O O O O O B-FD I-FD I-FD O O O	request
+373	oujou rete ap demi nan seren an gran gwav avni jansimon pwolonje enstans konsene yo papote anyen pounou.  Yo papote manje.  ni dlo tant mm yon prela.  S	O B-SHL I-SHL I-SHL O B-FD I-FD O O O B-OTH O O O O O O O O O O O O O O O B-MED O O O O	request
+374	Sil teple manmanm mouri pitit mwen se nan lari map domi mwen pa janm jwenn manje ak dlo.  mwen ekri nou jus pou nou edem poum pa mouri.  stp	O O B-FD O O B-MED I-MED I-MED I-MED O B-FD O O O O O O O O O O O O O B-WAT I-WAT I-WAT I-WAT O O O	request
+375	Bonsoir.  mwen se yon viktim trableman mwen voye mesaj sa pou nou teka edem mwen bezwen 5tant avec manje avec dlo nan adres sa vilaj eden impass di mang	B-FD O O O O B-SHL O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O B-FD I-FD I-FD O O O O O O B-FD B-WAT O O	request
+376	Komin Vrt nan Latibonit gen yon popilasyon ki preske triple.  Anpil moun ki te Ptoprens oblije vini pou sove lavi yo.  Nan ka sa a Vrt resevwa moun ki	B-FD O O O B-SHL O O O B-WAT B-FD O O O O O O O O O O O O O O O O O O O O O	request
+377	Nou bezwen manje, dlo, kote pou nou twalut epi nou bezwen anpil sekirite li distribisyon an.  se sou plas kanapev a nou ye.  pote tant.  tanpri vin sove lavi nou	O O O O O O O B-SHL O O B-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O O O O B-FD O O O B-WAT O O	request
+378	Zn kotem ye a pa jwenn anyen di tou menm yon sache dlo ki pi piti si nou kapab ede nou relem map fe nou vin vizite zon nan	O O O O O O B-MED I-MED I-MED I-MED O O O O O O O O O O O O O O O B-WAT I-WAT I-WAT I-WAT	request
+379	M se Reprezantan MPCS nan ansagal ( la gonave ) nou gen anpil moun zon sou salin 1 e 2 kap demi nan lari yo pa gen kay pou yo rete paske seisme la kraze tik	O O B-FD I-FD I-FD O O O O O O B-WAT B-FD O O O O O O O O O O O O O O O O O O O O O O O	request
+380	mwen gen pwoblem manje avek populasyon an nan pestel	O O O O O B-MED I-MED B-FD I-FD	request
+381	Moun avenue N prolongue di yo poko janm jwenn manje, yo ta renmen konnen si yo fini ak distribisyon diri a deja	O O O B-MED O O O B-SHL B-FD I-FD O O O O O O O O O O O O	request
+382	Mwen nan yon zile ki rele ila vach.  Nou gen probl m manje paske kantite moun kite nan zile a vin ogmante	O O O O O B-WAT O O O B-WAT O O O O O B-OTH O O O O O B-FD I-FD	request
+383	Anmwe kisa yap di pou nou nan delma 75 nou pa jwenn anyen pagen moun ki pase we nou.  .  nap demi je fas lesyel, pagen manje, dlo, tant.	B-FD O O O O B-SHL O B-MED O O O B-FD O O O O O O O O O O O O O O O O O O O	request
+384	Mwen nan yon z n mwen vikti m pa gen moun ki man de nou si nou manje si n pa manje li yap bay manje se goumen tet kase rezon an yo pa konn jere se	O O O O O O O O O B-FD O O O O O O O O O O O O O O O O O O B-FD I-FD I-FD I-FD I-FD O O O O	request
+385	Eske se moun ki gen kat selman kap resevwa manje sila	B-FD O O O O O B-FD O B-SHL O O	request
+386	Apa nou pa janm vini se nou fe manje, nou ap kite nou mouri la fen	O B-FD O O O O O B-FD I-FD O O O O O O O	request
+387	Nou menm nan tijo site kanada nou bezwen.  manje, dlo e tant.  nou konte sou patisipasyon oganizasyon an.  se perceval gerson	B-FD O O O O O B-FD O O O O O O O O O O O O O O O B-SHL I-SHL	request
+388	Eske nap kite nou mouri lafen nan GOMMIERS.  Tampri voye je gade nou	O O O O B-FD O O B-OTH O O O O O O	request
+389	Mezami moun lagonav nan difikilte poumange sitou nan 1e sektyon palma tanpri mezanmi tande kri pep la kap sou fri	B-WAT O B-FD O O B-FD I-FD O O O O O O O O O O O O O	request
+390	ki bezyen mange yo soti lot kote tanpri ede non	O B-FD I-FD O B-FD I-FD I-FD O O O	request
+391	Kay mwen kraze kafou dif kay mwen kraze potoprens, lajan leta kite nan menm pedi m gen timoun mouri men mwen pa blese si nou te ka fem fav bare kay kaf	O O O O O O B-MED I-MED O O O O O O O O O O O O O O O B-SHL I-SHL I-SHL I-SHL O O O O O	request
+392	Nou nan legliz advantis morija dikini nou gen problem dlo manje kouran avek tant	O O O O O B-WAT O B-FD O O B-FD O O O	request
+393	nou bezwen tant poum ka domi paske yo anonse lapli pral tonbe.  mesi	B-FD O B-SHL O B-SHL O O O B-FD O O O O O	request
+394	Tanpri fok yo pote d gonayiv tou, paske se la pi fe moun kay kraz vini	O O O O O O B-MED O B-SHL O O O B-OTH I-OTH I-OTH I-OTH	request
+395	moun 57 pa gen tant kisa nou ka fe pr nou s v p	O O O B-SHL O B-SHL B-OTH O O O B-OTH O O O	request
+396	pwoblem nan, nou pa gen pwela! c anba dra nap domi.  S KE OU KAB FE N JWENN YOUN POU 1 FANMI D 6 MOUN?	B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL	request
+397	Non si lapli sa vini man trave paske m gen 9 ti moun m pa gen ni tant ni prela.  koman nap kapab ede m.	O B-MED O O O B-SHL B-OTH O O B-FD I-FD O B-SHL O O O O O O O O B-SHL I-SHL I-SHL O O	request
+398	Delma a1 trouvel nan antre bo goldstar nan lakou painson s.  a tanpri pran ka nou	O O O O O O B-OTH I-OTH I-OTH I-OTH O O O O O O O	request
+399	otoprens ki retounen pou yo vini viv ki lage de men vid.  nou mande sekt ki konsne yo pou pote ed bay pase2000 moun kap viv nan eta difisil.  ak jan yo k	O O B-SHL B-FD I-FD I-FD O O O B-SHL O O O O O O O O O O O O O O O O O B-OTH O O O O O O O	request
+400	Meje gin proble zone la gondol mwen ta rinmen konnin si nou pap jwen visite responsab yo paske yn pa pale de nou e gin anpil kay ki kraze mwen mem se ou	O O O O O B-SHL O O O O O O O O O O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O	request
+401	reskape, edem! edem souple nap domi nan seren tankou zannimo.  Mesi davans!!!	B-FD O B-SHL B-FD I-FD O O B-OTH O O O O O	request
+402	, twalet mobil, klinik mobil paske se nan lari nou twouve nou tou.  S.  V.  P	O O B-FD O B-FD O O O O O B-OTH O O O O O O O O	request
+403	map viv pap svp edem paskem pa konn sa poum fe	O O O O O O O B-FD O O O	request
+404	Sil vou pli pase w zon Destra nou izole.	O O O O O O O O O	request
+405	Sil vou pl ede mwen avek moun ki viktim yo nan tranbleman de ta a, ki kiti potoprins ki vini nan provinse mwen ede ak ti kob mwen te ginyin kouni a	O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O O O O O O O O O O O O	request
+406	Tanpri Fr m yo, fe yon men leve pou nou, paske bagay yo chanje karakt nan men nou.  e akoz lavi che a ki ogmante a pason pa an mezi bay d a peson, rele	O O O O O O O O B-FD I-FD O B-OTH O O O O O O O O O O O O O O O O O O O O O O O O	request
+407	Vole declare mounn sou dal blok tet 2avni bolos ya pede tire, chak 6pm abitan zonn nan se bay zonn.  gen prizonie vinn kache tanpri pote pap bolos sekou	O B-WAT O O B-MED O O O O O B-OTH O B-OTH O O O O O O O O O O O O O O O O O	request
+408	Eske nou genyen you kote nan okay kem ka jwenn reprezantan nou	O B-MED O O B-OTH O O B-MED O O B-SHL O	request
+409	Alo minista nou gin problem nan tirin gabion vini ede nou an ijans.	O O O B-SHL O B-MED I-MED I-MED O O B-MED O O	request
+410	Alo dijicel bonswa silvoupl voye yon ti kat telefon pou mwen non depi le evedman mwen pa janm pran nouvel fanmim yo silvouple map tann ni kounya sou kon	O O O B-WAT O O O O O B-FD B-OTH O B-OTH O B-MED O O O O O O O O O O O O O O	request
+411	evan pale nasyonal moun pa janm jwenn oken n ed gen anpil moun ki deja mouri akoz miz grangou swaf dlo swen sante pwoblem sikolojik stres spesyalman ti	B-SHL O O O O B-MED I-MED I-MED O O O O B-MED O B-WAT O B-FD O O O O O O O O O O O	other
+412	Mgen yon kouzin mwen ki gen mennaj li ki enfekte avek viris VIH la ki prekosyon li ta dwe pran avek mennaj la	O O O O O O B-MED O O B-MED O B-FD O O O O O O O O O O O	other
+413	Anpil Moun blesse ki soti p au p, miragoane, ti goave, leogane, vini okay.  Donc vinn sove okay.	B-FD O O O O O O O B-MED O B-FD O O O O B-SHL O B-WAT O	other
+414	Kisa nou ka atann de gouvenman an paske pa gen dlo poun sevi tiyo pa vini tout basen kraze epafwa li machin dlo lakwa rouj pase yo refize bay nou 2, 3 bokit dlo	O B-FD O O O B-FD O O O O O O B-MED O O O O O O O O O O O O B-OTH O O O O O O O O	other
+415	Apa nou bliyem kisa nap fe pou mwen map soufri pou toi rezon premie man se Mange dezim man se Travay toi zim man se Dormi mwen paka pa soufri paskem p	B-SHL O O O O O O B-MED O O O O O O O O B-MED O O O O O O O O B-MED O O O B-OTH O O	other
+416	Komanse gen pwoblem malozye nan polasyon Tomazo a ki kote pou nou ale	O O O O O B-MED I-MED I-MED O O O O O	other
+417	Pa bliye vil pwovens yo tankou mawouj nan Ndws yon tizn tre defavorize kote anpil moun ki te potoprens debake, pwodui alimante yo vin che anpil k	O O O O O B-SHL O O O O O O B-FD O O O O O O O O O O O O O O	other
+418	Se maso ki sitye andan la boul 12 prolonje nan seksyon prosi nou gen problem manje ak lojman	O O O O B-FD O O O B-SHL O B-FD O O O O B-FD I-FD I-FD	other
+419	mwen ta renmen konnen eske prezidan preval deklare troi jou jeune nan.	B-FD O O B-SHL O O B-SHL O O O O O	other
+420	Moun avenue N di yo poko janm jwenn manje, eske yo fini ak ditribisyon an?	O O O O B-FD B-WAT O B-FD O O O O O O B-OTH	other
+421	si gen yon kan ki bezwen ed manje ki sa l ka fe ki jan nou ka edel	O O O B-OTH O O O O O O O O O O B-OTH O O O	other
+422	Eske y'ap deplase moun ki loje sou channmas yo vre? Kil konsa sa ka ft? Nan ki zonn ke yon reyabrite pwovizwaman moun sila yo?	O O O B-FD O O O B-OTH O O O B-FD O O O B-SHL O O O O O O O O O	other
+423	Mwen ta renmen konnen ki sa gouvenman ap fe poul ede viktim ki al nan provens yo?	O O O O O B-MED I-MED I-MED O B-FD O O O B-OTH I-OTH I-OTH I-OTH	other
+424	nou bezwen yon bon repons ki krk pou nou konnen kisa poun f.  paske nouta renmen ede kek moun ki nan bezwen.  AJDDC.	O B-OTH O O B-OTH O O B-SHL O O O O O O B-OTH O O O O B-OTH I-OTH I-OTH I-OTH I-OTH O	other
+425	pagen yon moun ki pale sou kay ki kraze epi ki domaje kenskof yo	B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH	other
+426	( Mayisad gen anpil moun ki te viktim potoprins tou jiskil d pa moun sa yo ap riv )	O O O O B-FD I-FD I-FD B-OTH I-OTH O O O O B-OTH I-OTH I-OTH I-OTH I-OTH O	other
+427	S v p eske se 6 pou 6 yo mete jen nasyonal la mersi	O O O O O O O O O O O B-FD O O	other
+428	@X' @Msi anpil men zon mariani 1 ri laviktwa pwolonje nan mon lan nou f fas a tout sot pwoblem menm dlo nou paka jwen kom nou byen wo petet se sak fe yo pa	O O O O B-WAT O O O O O O O O O B-OTH O O O O O O O O O O O O O O O O O O O O	other
+429	mwen nan domen jeni sivil ki kote mwen ka ale depoze cv	O B-FD O O B-FD I-FD I-FD O B-WAT O O O	other
+430	Eske gen lopital ki ap fonktion nan moman sa ki ap okipe moun ki pa blese?tankou moun ki gen problem ginekologik, lafiv oubyen nenpt lot maladi?	O O O O O B-MED O O B-WAT O O O O O O O O O O B-WAT I-WAT I-WAT O B-OTH O O	other
+431	Eskem ka jwen n yon viza ameriken vre	B-MED O B-OTH O O O B-WAT O	other
+432	Ki kote infimy ki po ko jwen travay yo ka jwen n'	O O O O O O B-SHL I-SHL O O O O	other
+433	Mwen vle ale lopital, mwen gentan ale an pwovens koman nou ka edem?	O O O O B-WAT B-MED O O O B-WAT O O B-OTH	request
+434	Bonswa! Nou tre byen? Mwen vle di nou mesi pou tout enfomasyon sa yo.  E si'm pa genyenl, koman'm ta ka fe pou'm ta jwenn youn? Bon nwi bondye ap veye sou	B-MED O O O O O O O O O O B-MED O O O O O O O B-WAT I-WAT I-WAT I-WAT I-WAT I-WAT O O O O O O O O	request
+435	Moun anwo dekayt beswen tant pou seren ti bebe yo malad tanpri souple ede nou.	O O O B-MED O O B-OTH O B-MED O O O O O O	request
+436	Si tou pou komin gwo-mn seksyon pandi tout blese yo vini e yo pajwenn swen sante mwen mande nou f entvansyon sa a pou mwen svp	O O B-FD O B-FD O B-MED O B-FD I-FD I-FD I-FD I-FD I-FD I-FD O O O O O O O O O O O	request
+437	Ki kote nou resevwa fanm ansent ki ta bezwen asistans medikal?	O O O O O B-OTH O O B-FD O O	request
+438	Bonswa, se yon enfomasyon map mande nou, eske pa gen lot lopital etranje ki te anchaj pou blese yo apa de lopital ki nan st domeng la ke yo te gentan ale a	O O O B-WAT O B-MED O O O O O B-OTH O O O O O O O O O O B-MED I-MED I-MED I-MED I-MED O O O O O O	request
+439	nou bezwen manje tant ak swen de sante nan potpe	O O O O O B-FD O B-FD O B-MED	request
+440	Nou salye nou nan non jezi nou gen pwoblem paske b kote nou gen moun ki f k.  tansyon asmatik.  nou pa gen tant nou pa gen dlo potab.  gen moun ki ipo e ip	O O O O O B-WAT O O B-MED B-SHL O O O O B-OTH O O O O O O O O O O O O O O O O O O O O O O O	request
+441	Nou poko jwen n oken ed nan la plaine di kil de sak.  Kise nan santo 6 enpas souveren nimewo 19 mesi	B-FD O O O B-WAT B-SHL O O O O O O O O B-FD O O O O B-MED O O O	request
+442	Nou menm responsab lekol nan lagonav yo nou bezwen tant an kantite pou n leje klas lekol yo	O B-FD B-MED B-FD I-FD O O O B-FD O O O O O O O O O	request
+443	Svp voye yon nimero ke mwen ka kontakte pou n ka jwen n ed medikal ak lot ed nou ka jwenn	B-FD O O B-FD O B-FD O O O O O B-MED O O O O O O O O O	request
+444	we need help, il va pleuvoir.  Delmas 62	O B-OTH O O O B-MED O O O	request
+445	Nou pa gen problem sa se problem dlo nou genyen gade koman'w ka ede n adres nou se egliz de Dieu misyon evangelik tnye nou anviron 200 kap tan ede ou m	O O O O O O O O O B-MED I-MED B-WAT O B-OTH I-OTH O O O O O O O O O O O O O O O O O	request
+446	Moun nan Lilavois 17, andan nan rue Bethesda kay nou kraze nap demi nan seren ak mayengwen nou gragou tanpri vin we nou bonswa e bon travay	B-SHL O O O B-WAT O O O O O O O O B-OTH O O O O O O O O O B-MED O B-WAT B-FD	request
+447	Zon nan pa gen sib ni net.  Mezanmi, fe yon efo pou nou.  Paske se 173 moun ki pa gen kay, mange, bon dlo.  Kote nou ye a, elikopt ka desann	O O B-FD O O O O O B-FD O O O O O O O O O O O O O O O O O O O O O O B-WAT O O	request
+448	Nou gen yon ti ganizasyon kap jere enpe sinistre nan zon nou ye a nou bezwen ed tankou dlo pwodwi alimant bagay poufi sevi eksetera	O O O O O O B-FD O O O O O O O O O O O O O O O O O B-WAT	request
+449	Weneedtant.  water.  food.  delmas34	B-SHL O B-WAT O B-FD O B-SHL	request
+450	Mwen nan yon sit gresye ki pako jwen n oken n ed, nou bezwen touswit tant, dlo manje ak twalut se menm bagay pou tovt gresye	O B-FD O O O O O B-MED O O O O O B-FD O O O O O O O O O O O B-FD	request
+451	je nou fini, nou ta renmen jwen jwenn yon asistans an nouriti, se vre ke nou pa gen pwoblem rad, nou pa gen pwoblem dlo, men nou pa gen manje ank.  W s	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MED O O O O	request
+452	Mwen se you viktim m gen problem mbezwen pou nou edem mange et lot anko	O O O O O O B-SHL B-FD O O B-FD O O O O	request
+453	Mwen bezwen ed manje pou moun sinistre ki ale SEN-RAFYEL Nord	O O O B-WAT O B-FD O O O B-FD I-FD	request
+454	Mwen ap viv nan yon kan pa gen dlo pa gen manje pote nou sekou, Eddy	O B-FD O O O B-OTH O O O O B-SHL B-FD I-FD I-FD I-FD O	request
+455	Mwen gen pwoblem pa pasem nan tintin Mwen grangou relem pou dim kisa wap ban Mwen	O O O O O O B-MED I-MED O O O O O B-FD I-FD I-FD	request
+456	Afn pa bon ditou nou manden voye kichy pou nou nan 4m avni Bls riyl Chales no 17.  nou bezwen tant ak manje medikaman mesi davans.	O O B-FD O O B-FD O O O B-SHL O O O O O O O O O O O O O O O B-MED B-FD	request
+457	C grangou mwen grangran si nou kapab vin edem svp	O B-MED O B-FD O O O B-FD I-FD I-FD	request
+458	Pou nou ka tan'n o mwen, fok nou ka demi, fe nou jwenn yon tante?	B-SHL O O O O B-SHL O O O B-SHL O O B-FD O O	request
+459	Bonswa mwen rete Leyogan kay mwen kwaze se nan lari map demi ak fanmi m epi nou nan grangou nou pa jwenn manje pou nou manje ede m svp mesi	O O O O O O B-SHL O O O O O O O O O O O O O O O O B-SHL I-SHL I-SHL O O O B-WAT	request
+460	Nounan pwemi sektion petibwa komin kwad -d-bouk nou bezwen manje tant nan Dume nap tann sekou nou	B-WAT O O O B-WAT B-FD O O B-SHL B-OTH O O B-SHL I-SHL I-SHL I-SHL O	request
+461	Eskew voye tant yo nan adres mwen	B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL O	request
+462	Mesi pou INFO yo! Pwoblem mwen se kil map jwenn yon pwela ak kibo m va jwenn yon djob pou m pran swen fanmi mwen.  Souple, panse ake m!	O B-MED O O B-MED O O O B-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED O O O O O O O O O O B-OTH B-WAT O O	request
+463	Se arcahaie mwen ye mwen pa jwyenn manje alevwa tant se dieufils	O O B-WAT O O O B-FD O B-SHL O O O	request
+464	Mwen se yon viktim nan twenbleman ti map demi nan rage avek madan, pitit.  mwen ta renmin nou edem fason nou kapab mesi adres mwen ce marin rue bon-amie n	O B-FD O O B-FD O B-FD O O O O O O O O O O O O O O O O O O B-SHL O B-OTH O O O	request
+465	Ki meye abri mwen ka jwen n pou madan m mwen paske se nan lari nou ye e li pe ak sekous kap fet yo.	O O O O O B-SHL O B-FD O O O O O O O O O O O O O B-WAT O O O	request
+466	Nou abite nan impasse fafan zone ray nan kafou, nou pa jan m jwin n anyin tankou tant, manje.  Abri nou an ginyin 200 mou n la dan n.	O B-FD O B-FD I-FD I-FD B-SHL O O O O B-OTH O O O O O O O O O O O O B-SHL O O O O O	request
+467	Eske ou ka fe pase mesaj saa pou mwen nou men moun ki sou plas mayigate ap mande otorite yo pou voye tant ak manje pou nou, mwen menm se nan seren nuit m	B-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL I-SHL	request
+468	sim bezwen mange avek tant pou 150 fanmi ki sinistre ki ong mwen ka mande	O B-OTH I-OTH I-OTH O O O B-WAT O B-FD O O O O O	request
+469	o paske nou pa jwen n anyen e mwen gen yon orfelina sou kont mwen ak tout moun legliz la ki nan ri MBC Imp.  des copains # 2 !	O O O O O O O O B-OTH O O B-MED O B-OTH I-OTH I-OTH I-OTH O O O O O O O O O O O O O O	request
+470	Nou bezwen ede nan geral bataille imp salem ( inakm )	B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O	request
+471	mw leyogan nan seksyon gwomin bary wouj, mw vle ed paske mw viktim,	O B-SHL O B-FD O B-OTH O O O O O O O	request
+472	Nou gen yon faktori ki pran dif sou wout aerop a b sogebank la li komanse boule tout dokiman ki te rete nan plizy kay yo.  tanpri vinn di nou.	O O O O O O O O B-FD O O O B-OTH O O B-FD O O O O O O O O O O O O O O O	request
+473	Koman pou m fe pou m jwenn ed paske se nan pwovens aken m ye?	B-WAT O O O O O O O B-OTH I-OTH O B-SHL O O O	request
+474	dy yo se nan radio mwen te tande epi mwen ecri nou sa se numero pa'm li ye nou ka kontakte si bondie mete sa sou ke'n ke bondie ede'n map tan repons no	O O B-FD O O B-SHL O O O O O O O B-OTH O O O O O O O O O O O O O O O O B-MED O O O	request
+475	Mwen se ayisyen, mwen pedi tout sam te posede.  Mwen pa kw leta ayisyen ou leta etranje ap rive rekontwi vim.  Men mwen kw yon bon djob, avek tan ap metem	B-SHL O O O O B-MED I-MED I-MED O O O O O O O O O O O O O O O B-OTH I-OTH I-OTH I-OTH I-OTH O O O O O	request
+476	tout fason paske mwen an nesesite mesi davans.	O B-OTH O O O B-OTH O B-OTH	request
+477	Nou menm nan lagonave nou bezwen ed entenal paske nou viktim tou.	B-SHL O O B-FD O B-OTH O O O O O O	request
+478	Mwen seyon viktim mwen malad pa gen tante poum domi senan laria mwen ye tou gripe, ki sa nou ka fe pou mwen svp	O O O O O B-OTH O O B-MED O O O B-SHL O O B-OTH O O O O O O O O	request
+479	Mme M.  Bonjou nou isit nou gen tout kalite pwoblem nou bezwen ou	O O O B-OTH O B-WAT O O O B-SHL O O O O	request
+480	Mwen te potoprens mwen tefrape tet anpil emanman m kite tout vim li mouri mwen san sekou silvoupl edem nan fason nou kapab edem aktwlman se pa depi mw	O O O O O O O B-MED O O O O O O O O O O O O O O O O O O O O O	request
+481	Souple mwen ta remen konnen eske gouvenman canadien an ap banm aks pou m antre canada paske kay nou kraze nou pedi paran nou se mwen menm ak fianse m ki	B-WAT O O O B-OTH B-MED I-MED O O O O O O O O O O O O O O O O O O O O O B-FD O O	request
+482	Nou mande pou yo pote ed ki nesese pou nou paske nou bezwen ed otorite yo Zn Sous Kosl nan Kafou Mesi	O O O O O O O O O O B-SHL O B-FD O O O O O O O O O	request
+483	Eske mwen met konte sou nou ke nap jwenn aide la.	O O O O O O O O O O O	request
+484	en swete ke nap ede jwenn mwayen pou m viv.  Mesi!	O O O O O O O B-FD I-FD O O O	request
+485	Nou bezwen ed nan mon repos 46.	O B-OTH O O O O O	request
+486	Mwen bezwen enfomasyon sou ris ki genyen sou tranbleman ta a	O O B-WAT O B-FD O B-SHL O O O O	request
+487	Edem silvouple mwen gen nesesite	O B-SHL O B-WAT O	request
+488	Mwen bezwen rele fanmim mwen pa gen kat, tanpri voye minut pou mwen paskem pa pran nouvel yo.  sou numewo sa	O O O B-WAT O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O	request
+489	Mwen san se kou edem tanpri mwen nan la rie	O O O O O O O O O O	request
+490	mwn vle kon tout enfomasyon yo se nan radio mwn jwen nouvel la paske mwn vle enfome mesi	O O O O B-FD O O O B-FD O O O O O O O O O	request
+491	Bonjou ch responsab, mesi pou fason ou konprann mwen, men mwen nan difikilte pou m jwen n rue Muguet s v p eske w ka lokalize l pou mwen.  Mesi	B-SHL O O O O O O B-OTH B-MED O O O O O O O O O O O O O O O O O O O O O O	request
+492	Bonswa svp mwen bezwen yon ti enfomasyoN sou timoun yo bezwen adopte yo men eskizem wi mwen pagen radio voye repons nan sou nimero sa pou mw svp	O O O O O O O O O O O O O O O O O O B-OTH O O O O O O O O O	request
+493	Bonswa mwen ta renmen konnen eske vr ap gen tranbleman ta ank vri pou wikend lan tanpri fem konnen	O O O B-MED O O O O B-FD O O O O O O O O O O	other
+494	Bonjou mwen ta remen konnen eske menm si w pa bless sou ka al l opital pou batmann ke mesi	O O O O B-MED I-MED I-MED I-MED I-MED I-MED I-MED O O O O O O B-MED I-MED I-MED	other
+495	Nan miragwan nou pa sipoze ap achete medikaman se viktim nou ye tou m ta swete ed yo rive tou nan lopital ste herse miragwan tou	O O O O O B-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED I-MED	other
+496	Tanpri sove vaillant e.  D.  h limet se nan nyit selman populasyon ap satisf marigyen moustik ede nou tanpri limet se le swa selman nou bezwen kouran tanpri	B-SHL O O O O O O O O O O O B-SHL O O O B-OTH O O O B-WAT I-WAT I-WAT I-WAT I-WAT O O O O O	other
+497	4636 : Nasyonzini di siw gen malozye, mal goj, lopital jeneral ka edew.  Anpil ji sitwon tiye mikrob tou.  Siw gen fyev we dokte vit	B-FD I-FD B-MED O B-SHL O B-MED B-OTH O O O O O O O O O O O O O B-MED I-MED I-MED I-MED I-MED O	other
+498	Salut mwen rele nesly tanpri dim ske se vre gen yon volkan ki nan zon sodo, epi mwen ta vle konnen eske eleksyon ap fe tout bon vre,si se wi se kil lap ft.	O B-FD O O B-FD I-FD O O O O O B-MED O O O O O O O O O O B-MED O B-MED I-MED I-MED I-MED O O O O O O	other
+499	Bonjou from yo kap kout miami ninpot lot peyi mwen gen madanm avek 5 pitit nap mouri grangou an haiti voye ti d pou nou silvoupl bondie va beniw m	O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O B-OTH O O O O O O O O O O B-WAT O O O	other
+500	Mwen tap renmen gen nouvel sou posesis distribisyon ed yo nan jakmel.  Mesi	O O O O B-WAT O O B-WAT O O O O B-OTH O	other
+501	Map mande nou enfomasyon eske ap genyen trablfman pou potoprens a swa	B-FD O O O B-SHL O O B-MED O B-WAT O O	other
+502	Bonswea Mwen ta renmen konnen sou ki nimewo m ka rele P.  A.  M.  Poum remsye l	O O O O B-MED O O B-FD O O O O O O O B-FD I-FD I-FD I-FD O	other
+503	Digicel tanpri m ap mande ou aide nan nenpot fason pou kenskof guibert 67 nou 350 ki sinistre tanpri se guibert 67 nan kenskof tanpri n ap mouri grangou	O B-WAT O O O O O O B-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT O O O O O O O O O O O O O	other
+504	Mwen se yonn nan sinistre ki viktim anpil jou kite madi 12janvye a.  gras a DYE mwen pa mouri men mwen pa pose de anyen ank.  mwen lakolin 6eme seksyon kom	O O O O O O O O O O B-OTH O O O O O B-WAT O O O O O O O O O O O O O O B-OTH O	other
+505	mpa gen tant se nan seren map domi	B-SHL O O O O B-SHL I-SHL O	other
+506	Mwen benswen kek enfomasyon sou tranbleman ta a.	B-FD O O B-OTH O B-OTH O O	other
+507	Mwen voye mande ki pwoteksyon nou ta dwe pran kont gwo tranbleman de ti sa yo.	B-MED O O O O B-OTH I-OTH I-OTH I-OTH I-OTH I-OTH O O O O O	other
+508	Eske janm tande yap di a nap gen poun subi gro sekous anko	B-FD O O O O O B-OTH I-OTH O B-SHL O O O	other
+509	n pwovens eske yap pedi ane lekol la.  Pou kesyon ed mou n an pwovens pa jwenn paske moun yo sinistre tou yo ale an dey san 5 kob pou tout moun ka benefis	O B-FD O O B-FD I-FD O O O B-FD O O O O O O O O O O O O O O O O O O O O O O O O O	other
+510	Mwen ta renmen okouran de tout dnye info de seisme kite pase a.	B-SHL O O B-FD O O B-OTH O O O O O O	other
+511	Eske sekous yo fini ak si pa gen chans pou gen yon lot anko.  Mwen ta renmen jwenn repons lan kounya.  Mesi anpil!	O B-FD O O O B-FD I-FD I-FD O O O O O O O O O B-MED O O O O O O O	other
+512	Ta sanble gen moun ki vivan anba dekonb Infotronique.  Yon entvansyon an ijans nesese pou lekol sa a.	O O O O O B-OTH O B-OTH B-SHL O O O B-OTH O O O O O O	other
+513	Mwen rele MARGE KINSTA LATIGUE, mwen rete nan komin marigo.  Mwen se menm pwoteksyon sivil.  Mwen ta renmen bon jan enfomasyon sou evolisyon ( sime ) lan ko	O B-FD O B-FD O B-OTH O O O O O O B-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT I-WAT O O B-MED O O O O O	other
+514	Siw gen telefon ou ki pedi nan katastwof la sa pou f.	O O O O O B-FD B-OTH I-OTH I-OTH I-OTH I-OTH O	other
+515	k lot bagay mwen konte sou o n g.  mesi	O O B-MED I-MED I-MED O O O O O O	other
+516	Gen moun ki di ta a gen pou twamble men jan anko ske se yon verite	B-FD O O O O O B-SHL O B-FD O O B-SHL O O O O	other
+517	Nou pa gen pou n' bwe nan SOLINO.	B-SHL I-SHL I-SHL O O B-FD O B-MED	other
+518	e tou kominikasyon radyo tele.  Mwen swete nou siks, bon kontinite! sel ti repwch ke-m fe nou, ske li yon moun ekri nou poul mande ed, nou pa janm voye	O O O B-WAT O O O B-OTH O O O B-OTH I-OTH O O O O O O O O O O O O O O O O O O	other
+519	Mwen vle enskri nan sevis mesaj 4636 la pou m ka gen tout enfomasyon neses sou ayiti ok mesi.	O O B-MED O O B-SHL O O O O O O B-WAT O B-OTH O O O O	other

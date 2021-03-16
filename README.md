@@ -15,18 +15,24 @@ https://arxiv.org/abs/2103.07792
 
 ### Datasets
 MultiAtis++: Please visit https://github.com/amazon-research/multiatis 
+
 CrisisData: See folder English-HaitianCreole-CrisisData
 
 
 ### How to Run: Joint Training
 
 #### joint training (English Only)
+```
 python3 joint_en.py <location-of-data-folder> '0'
+```
 
 #### joint training (English Only with Code Switching)
+```
 python3 joint_en.py <location-of-data-folder> '1'
+```
 
 ### How to Run: Code-Switching
-
+```
 python3 code_switch.py <input_fileName> <pickle_output_fileName>
-e.g., python3 code_switch.py 'train_EN.tsv' 'train_cs.p'
+#e.g., python3 code_switch.py 'train_EN.tsv' 'train_cs.p'
+```

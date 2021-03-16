@@ -17,7 +17,7 @@ https://arxiv.org/abs/2103.07792
 MultiAtis++: Please visit https://github.com/amazon-research/multiatis 
 
 CrisisData: See folder [English-HaitianCreole-CrisisData](https://github.com/jitinkrishnan/Multilingual-ZeroShot-SlotFilling/tree/main/English-HaitianCreole-CrisisData) 
-Original Source: (Appen)[https://appen.com/datasets/combined-disaster-response-data]
+Original Source: [Appen](https://appen.com/datasets/combined-disaster-response-data)
 
 [Datasets](https://github.com/jitinkrishnan/Multilingual-ZeroShot-SlotFilling/blob/main/dataset_readme.md) to setup before running the experiments.
 

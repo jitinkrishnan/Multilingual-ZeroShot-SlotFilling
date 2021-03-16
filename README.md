@@ -20,10 +20,10 @@ CrisisData: See folder English-HaitianCreole-CrisisData
 
 ### How to Run: Joint Training
 
-# joint training (English Only)
+#### joint training (English Only)
 python3 joint_en.py <location-of-data-folder> '0'
 
-# joint training (English Only with Code Switching)
+#### joint training (English Only with Code Switching)
 python3 joint_en.py <location-of-data-folder> '1'
 
 ### How to Run: Code-Switching

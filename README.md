@@ -14,11 +14,9 @@ https://arxiv.org/abs/2103.07792
 3) Enable Cuda for Joint Training
 
 ### Datasets
-MultiAtis++: Please visit https://github.com/amazon-research/multiatis 
+MultiAtis++: Please visit https://github.com/amazon-research/multiatis.
 
-CrisisData: Please send us an email to obtain a copy of the data.
-
-Original Source: [Appen](https://appen.com/datasets/combined-disaster-response-data)
+CrisisData: Please send us an email to obtain a copy of the data (Original Source: [Appen](https://appen.com/datasets/combined-disaster-response-data)).
 
 [Datasets](https://github.com/jitinkrishnan/Multilingual-ZeroShot-SlotFilling/blob/main/dataset_readme.md) to setup before running the experiments.
 

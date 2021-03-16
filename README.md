@@ -39,3 +39,6 @@ python3 joint_en.py <location-of-data-folder> '1'
 python3 code_switch.py <input_fileName> <pickle_output_fileName>
 #e.g., python3 code_switch.py 'train_EN.tsv' 'train_cs.p'
 ```
+
+### Contact information
+For help or issues, please submit a GitHub issue or contact Jitin Krishnan (`jkrishn2@gmu.edu`).

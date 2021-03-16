@@ -16,8 +16,9 @@ https://arxiv.org/abs/2103.07792
 ### Datasets
 MultiAtis++: Please visit https://github.com/amazon-research/multiatis 
 
-CrisisData: See folder English-HaitianCreole-CrisisData
+CrisisData: See folder [English-HaitianCreole-CrisisData](https://github.com/jitinkrishnan/Multilingual-ZeroShot-SlotFilling/tree/main/English-HaitianCreole-CrisisData)
 
+Datasets to setup before running the experiments.
 
 ### How to Run: Joint Training
 

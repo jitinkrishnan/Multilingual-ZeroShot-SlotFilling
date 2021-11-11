@@ -3,7 +3,7 @@
 **Goal**: Train a joint intent prediction and slot fillinf model using English and generalize to other languages.
 
 ### Paper/Cite
-https://arxiv.org/abs/2103.07792
+https://aclanthology.org/2021.mrl-1.18/
 
 ### Requirements
 

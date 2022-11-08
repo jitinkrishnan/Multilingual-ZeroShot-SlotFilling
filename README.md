@@ -4,6 +4,14 @@
 
 ### Paper/Cite
 https://aclanthology.org/2021.mrl-1.18/
+```
+@article{krishnanCodeSwitch,
+  title={Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling},
+  author={Krishnan, Jitin and Anastasopoulos, Antonios and Purohit, Hemant and Rangwala, Huzefa},
+  journal={In Proceedings of the 1st Workshop on Multilingual Representation Learning at EMNLP},
+  year={2021}
+}
+```
 
 ### Requirements
 
